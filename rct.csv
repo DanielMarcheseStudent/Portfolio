@@ -1,0 +1,574 @@
+Beer,Rating,Review_Count,Style_1,Brewery,ABV%,IBU,Description
+Konkey Dong 4UP (2022),4.550000000000001,32,IPA,Hoof Hearted Brewing,9.5,0,
+Wet Hopped Bodhi,4.512244897959183,56,IPA,Columbus Brewing Company,8.3,0,
+South of Eleven (2022),4.45952380952381,21,IPA,Hoof Hearted Brewing,10.2,0,
+$120 Nachos,4.440789473684211,119,IPA,Hoof Hearted Brewing,12.0,0,$120 Nachos (100% Citra Quadruple Dry-Hopped TIPA)
+Bourbon Barrel-Aged You Ever Put A Helmet On A Basketball?,4.311111111111111,40,Stout,Hoof Hearted Brewing,13.5,0,
+You Ever Put A Helmet On A Basketball?,4.306896551724138,63,Stout,Hoof Hearted Brewing,13.0,0,"Double mash imperial stout with cookies, cacao nibs, vanilla, marshmallow, coffee, and milk sugar added. Show Less"
+South of Eleven 666 (2022),4.299056603773585,54,IPA,Hoof Hearted Brewing,10.2,0,Fresh batch as of Jan 2022
+Key Bump,4.288461538461538,16,IPA,Hoof Hearted Brewing,10.5,0,"Clean off your mirrored glass table and grab a hundo. Key Bump bout to pack your nose full of those oh-so tropical tones. Passionfruit, guava, pineapple(s), calamansi and kumquat barrel down the mountain as quick as Alberto Tomba on an Olympic qualifying run. Hopped with the most dangerous weapon in the game (ElMoMoCoe) + fermented w/ the fruity flyboi Orenthal, Key Bump's the pick-me-up you can't put down. To quote the great Clyde Von Damme,
+""What the hell is Dim Mak?"" Show Less"
+Ol' Rugger Coconut Almond (2022),4.283333333333333,15,Stout,Zaftig Brewing Co.,15.0,0,"Roasted coconut, almond, and Ol' Rugger is a joy for the senses. Aged in Jim Beam & Heaven Hills barrels. Our Russian Imperial Stout is a nod to our friend Lynn Harvey and the great sport of rugby. Big and bold with notes of tobacco, molasses, dark fruit, vanilla and chocolate make this a beer that exemplifies a Rugger and Zaftig. As the say, ""Never let good enough BE enough"" Show Less"
+Accrual Summer,4.277777777777778,48,Lager,Saucy Brew Works,4.2,0,"Crisp, clean drinking craft light lager brewed to celebrate a hearty golf win by the accounting team over the brewers. Show Less"
+BA Imperial Melk,4.277777777777778,29,Stout,Columbus Brewing Company,12.1,0,"Pouring dark black with a dark brown head. Notes of chocolate, bourbon, vanilla, caramel and oak. Aged in four unique whiskey barrels for 18 months then blended: Heaven Hill, Heaven Hill Rye, Four Roses, Buffalo Trace. *Contains lactose. Show Less"
+Everybody Wants Some Nectaron,4.271052631578947,20,IPA,Hoof Hearted Brewing,9.2,0,
+Konkey Dong 4UP,4.2690721649484535,104,IPA,Hoof Hearted Brewing,9.5,0,"We took Konkey Dong, fattened him up a bit, and doubled the dry hop for a whopping 8.5 pounds of hops per barrel. Show Less"
+Fine Corinthian Leather Nachos,4.268518518518518,249,IPA,Hoof Hearted Brewing,8.3,0,"DDH Double IPA Brewed with Phantasm Cryo Blend, Citra, and Nelson Sauvin"
+Nice,4.2625,22,Spiced / Herbed Beer,Combustion Brewery & Taproom,5.0,15,Spiced with cinnamon vanilla and Christmas cheer
+South of Eleven 666,4.252368421052632,204,IPA,Hoof Hearted Brewing,10.2,0,Triple dry hopped IPA with Mosaic
+Chocolate Diregorgon,4.251801801801801,117,Stout,Wolf's Ridge Brewing,10.0,40,Bourbon barrel Imperial stout with cocao. Over 14 months later you can finally reap the reward. Finished with Uganhan vanilla and cacao from Ecuador and Ghana. Show Less
+Konkey Dong,4.23469387755102,54,IPA,Hoof Hearted Brewing,8.0,70,"Barrel fermented in Donkey Kong barrels and excessively dry hopped with Galaxy, Simcoe, and Dr. Rudi Hops from New Zealand. Dank and Juicy! Brewed in collaboration with Arcade Super Awesome. Show Less"
+All My Friends Are Dead,4.234090909090909,75,Stout,Hoof Hearted Brewing,13.5,0,"Double-mashed Imperial Stout conditioned on an absurd amount of roasted hazelnut, vanilla, Hoof coffee, and a touch of milk sugar. Show Less"
+Cowboy Konkey Dong,4.228947368421053,39,IPA,Hoof Hearted Brewing,8.0,0,"Cowboy Konkey Dong is one fussed up version of the original. Sitting high in the saddle at 8% ABV and hopped with Motueka, Dr. Rudi, and Nelson Sauvin all from New Zealand along with some Mosaics and a heapin helping of Amarillo for that authentic Texas flavor. Show Less"
+"Truculent W/Cucumber, Lime, & Habanero",4.2272727272727275,23,Sour,Pretentious Barrel House,5.3,0,A habanero take on our Truculent W/Cucumber & Lime.
+Zipper Ripper,4.225862068965517,29,IPA,Hoof Hearted Brewing,8.5,0,Double IPA with Amish Honey
+Crumble,4.225,19,Specialty Grain,2 Tones Brewing Company,5.75,11,"Our vanilla ale will remind you of grandma's sugar cookies, vanilla wafers, cream soda... you be the judge. *Contains Lactose* Show Less"
+1-800- DoubleDouble-XtraXtra-FrootieFrootie-BiggieBiggie-JuicyJuicy (2022),4.2225,40,IPA,Hoof Hearted Brewing,10.0,0,"Bodaciously slathered with Cashmere, Citra, Riwaka and Motueka hops"
+Mexican Hot Chocolate,4.2178571428571425,15,Stout,Parsons North Brewing Company,10.5,10,"Warm, Chocolatey, and Spiced. This Kinetic spiced barrel aged imperial stout is infused with toasted ancho chilies and cinnamon sticks, Mexican vanilla beans, and cacao nibs! Show Less"
+Dire Wolf Coffee Joy,4.212,25,Stout,Wolf's Ridge Brewing,10.8,50,"Dire Wolf infused with toasted coconut, cacao, vanilla and One Line Coffee."
+1-800-DoubleDouble-XtraXtra-FrootieFrootie-BiggieBiggie-JuicyJuicy,4.210282258064517,257,IPA,Hoof Hearted Brewing,10.0,0,"A mouthful of a triple IPA. Brewed with Cashmere, Citra, Mosaic, New Zealand Waimea and Motueka hops. Show Less"
+Crumble Vanilla Ale,4.205,21,Cream Ale,2 Tones Brewing Company,5.8,0,"Creamy, Vanilla, Sugar cookie"
+What's His Nuts?,4.204545454545454,22,Stout,Saucy Brew Works,7.5,0,"Super smooth and rich, jet black and bursting with flavors of
+vanilla, peanut butter and Saucy’s House Roast Honduran Coffee Show Less"
+Bodhi,4.19391592920354,471,IPA,Columbus Brewing Company,8.3,80,Award-winning double IPA featuring Citra® hops with a pale golden color.
+Bourbon Barrel Ladies Who Brunch,4.193181818181818,22,Stout,Wolf's Ridge Brewing,10.0,40,"Bourbon Barrel Imperial Breakfast Stout. Brewed with lactose and maple syrup, aged in Watershed Bourbon barrels 1 year. Conditioned on coconut, vanilla, cacao, orange peel, coffee, and cinnamon. Show Less"
+Creeper,4.192105263157894,59,IPA,Columbus Brewing Company,10.0,100,"Our Gold medal winning Imperial IPA, brewed with Mosaic, Citra®, and Idaho 7."
+Tailpipin’ (Dual Exhaust),4.188095238095238,43,IPA,Hoof Hearted Brewing,9.7,0,"Triple IPA with Sauvignon Blanc, Viognier, & French Colombard Juice Added"
+Paint Me Like One of Your French Bread Pizzas,4.1875,17,IPA,Hoof Hearted Brewing,10.0,0,Triple IPA w/ Phantasm Powder
+“Pils” Pilsner,4.184210526315789,20,Pilsner,Hofbrauhaus Columbus Brewery & Restaurant,5.0,0,
+Exultation,4.184,54,Sour,Pretentious Barrel House,5.2,0,A blend of red and blonde sour ales aged on black currants and pomegranates. These subtle fruits give a complex flavor this is both familiar and obscure without being overbearingly sweet. The beer is dry and refreshing with an assertive acidity. Show Less
+"Who’d Like To Hold My Clipboard? (Mango, Peach",4.180555555555555,18,IPA,Hoof Hearted Brewing,9.0,0,
+South of Eleven,4.167905405405405,151,IPA,Hoof Hearted Brewing,10.2,98,Pass the crumpets old boy and slather them in the finest tangerine marmalade. Sticky weed Jeeves! Show Less
+Why Can't This Be Doug?,4.1382352941176475,90,Stout,Hoof Hearted Brewing,13.5,0,"Double Mashed Imperial Stout with Hazelnuts, Maple Syrup, Cacao Nibs, and Vanilla"
+"If You Can't Be Good, Be Bald",4.138,132,IPA,Hoof Hearted Brewing,8.5,0,A double IPA that’s headed over the top rope to land a Doomsday Device on your tastebuds. Show Less
+Fitness Freak,4.134246575342466,79,Stout,Hoof Hearted Brewing,14.0,0,"Vanilla, Maple, and Sumatran Hoof Hearted Coffee."
+Indolence,4.133333333333334,16,Sour,Pretentious Barrel House,5.0,0,"The passion fruit aroma is very apprrent. The dichotomy of sweet and sour unite to create something unlike any beer we have ever tried. The balance of lactose, vanilla, passion fruit and hops impart a flavor that is truly greater than the sum of its parts. Show Less"
+Did We Just Become Best Fwendz? (Nectaron & El Dorado),4.132692307692308,27,IPA,Hoof Hearted Brewing,8.0,0,DIPA with Nectaron and El Dorado hops
+Barrel Aged Walnut Brown,4.125,20,Brown Ale,Goodwood Brewing,6.5,0,
+Silk Road,4.125,16,Sour,Columbus Brewing Company,6.2,0,"Aged in oak wine barrels on lemon peel and ginger. Notes of lemon, oak, ginger and subtle funk. Show Less"
+"Don't Microwave It, Don't Boil It (w/ Raspberry)",4.12109375,70,IPA,Hoof Hearted Brewing,6.0,0,"Sour IPA with Raspberry, Lime Zest, Tahitian Vanilla and Milk Sugar. Collaboration with DSSØLVR in Ashville, NC. Show Less"
+Most People Can’t Handle The High Bass,4.115,31,IPA,Hoof Hearted Brewing,10.0,0,Triple IPA made with El Dorado and Bru-1 hops.
+"Truculent W/Cucumber, Lime, & Mint",4.113636363636363,23,Sour,Pretentious Barrel House,5.3,0,A minty take on our Truculent W/Cucumber & Lime
+Combustion IPA,4.1125,21,IPA,Combustion Brewery & Taproom,6.5,65,"Tropical fruit, lemon, highly drinkable"
+$60 Nachos 2022,4.111111111111111,18,IPA,Hoof Hearted Brewing,0.0,0,
+Murmuration Barrel-Aged Imperial Cherry Vanilla Stout,4.10625,18,Stout,Seventh Son Brewing Company,12.4,0,
+Murmuration,4.1,24,Stout,Seventh Son Brewing Company,14.52,0,"A blended barrel-aged imperial stout to showcase beer aged in spirit barrels including bourbon, rum, rye, and others. ⁣
+⁣⁣
+Murmuration was named after the hypnotic flying patterns created by Starlings.
+
+1/10/20 Batch 1: 60% Bourbon Barrels, 20% Rye Barrels, 10% Rum Barrels, 10% Nocino Barrels
+6/4/20 Batch 2: 90% Bourbon Barrels, 10% Rye Barrels, Cacao Nibs
+1/21/21 Batch 3: 75% Rum Barrels, 19% Rye Barrels, 6% fresh Oubliette
+Batch 4: habanero, cacao, cinnamon
+Batch 5: the minty one. Show Less"
+Snoochie Boochies,4.091666666666667,33,IPA,Forbidden Root Brewing Company,8.0,0,NE DIPA DDH with Citra & Mosaic
+Mirror Dimensions,4.089473684210526,21,IPA,Derive Brewing Company,10.5,0,Derive and wolfsridge collab
+"Don't Microwave It Don't Boil It (w/ Raspberry, Lime Zest, Vanilla, And Milk Sugar",4.085,31,IPA,Hoof Hearted Brewing,6.0,0,
+Yakima Fresh,4.083644859813084,114,IPA,Columbus Brewing Company,7.5,70,"Our annual wet-hopped American IPA features hops that were shipped directly from the farm to our brewery and used within 24 hours after being picked in the field. This year’s batch was brewed with fresh Mosaic® hops Wyckoff Farms in Grandview, Washington Show Less"
+POG Double Ache,4.08,27,Sour,Heart State Brewing,7.8,0,
+Quit Your Fussin’ On Me,4.078947368421052,20,IPA,Hoof Hearted Brewing,9.0,0,"Sour DIPA with Raspberry, BlackBerry, Boysenberry, Vanilla and Milk sugar."
+Who'd Like To Hold My Clipboard?,4.078260869565217,121,IPA,Hoof Hearted Brewing,9.0,0,"Double IPA brewed w/ our bois from Burial Brewing. Frappe Style DIPA with Tamarind, Vanilla, and Lactose. Show Less"
+And That's When I Knew,4.078125,17,IPA,Hoof Hearted Brewing,10.7,0,"Triple IPA w/ four New Zealand hops: Nelson Sauvin, Riwaka, Rakau, and Kohatu - 10.7% ABV Show Less"
+Lady Peiskos,4.075806451612903,32,IPA,Combustion Brewery & Taproom,6.3,65,International Women's Day collaborarion brew
+Numb Nuts,4.068181818181818,24,Stout,Saucy Brew Works,10.1,0,"Massively creamy stout with our
+house-medium roast Honduran coffee, milk sugar, and vanilla beans. Show Less"
+New England IPA,4.066666666666666,29,IPA,Parsons North Brewing Company,7.2,20,"Hazy, Juicy and Smooth. Our New England IPA brings flavors of citrus, mango and papaya from intense dry-hopping. Although big and bold, this is a very Chill beer for Chill folks who love to Chill. Show Less"
+Mango Lassi Sour,4.066666666666666,18,Sour,Land-Grant Brewing Company,4.0,0,
+Zipper Ripper: Honey Combover,4.066,26,IPA,Hoof Hearted Brewing,10.0,0,Triple Dry-Hopped Triple IPA with 2x Amish Wildflower Honey Added
+Insane Wanderer Vol 1,4.0625,16,IPA,Columbus Brewing Company,7.4,75,
+Tickling the Ivories,4.059722222222223,37,IPA,Hoof Hearted Brewing,7.2,0,"Tickling the Ivories - “Totally dusted,” started Pablo Cruz. “And I can truly say I’ve never felt better. Posers often overcomplicate it, but I’ve found all truths associated with the act are easily encapsulated in a few words. Skiing is a dance, and the mountain always leads.” Re-tune that Keytar boiz. We’re bustin Rig out of Ski Jail! Citra, Calypso, and Comet carve a trail full o’ tropics complimented in full by a dual-duty hazemaker. Is it juice? From concentrate? What’d you say the name of that was again? Show Less"
+Sybarite W/ Cherries,4.052222222222222,49,Sour,Pretentious Barrel House,5.9,0,Our sour red ale aged on several hundred pounds of red tart cherries. The cherry aroma is reminiscent of a fresh slice of pie. The oak tannin and assertive acidity give this beer a nice dry finish. Show Less
+Cuvée De Josh,4.05,20,Sour,Pretentious Barrel House,5.9,0,This beer represents the culmination of our craft; the best our cellar has to offer. We selected one barrel from each of our three recipes and blended them together. The resulting beer is a beautiful combination of brettanomyces and oak. Josh loves this beer (hence why his name is on it). Show Less
+Clockwork Vista,4.049180327868853,68,IPA,Derive Brewing Company,7.0,0,"BREWED AND DOUBLE DRY HOPPED WITH VISTA, MICHIGAN BERGAMOT AND NZ RAKAU."
+Insane Wanderer Vol. 2 Hazy,4.040123456790123,87,IPA,Columbus Brewing Company,7.4,0,"The newest installment in the series features Cashmere hops from Top Hops in Goodrich, Michigan with intense notes of ripe stone fruit. Brewed with a New England yeast strain for a soft haze and mouthfeel. Show Less"
+Truculent W/ Cucumber & Lime,4.038461538461538,26,Sour,Pretentious Barrel House,5.7,0,"When we set out to make this “summer beer,” we envisioned a hard seltzer, except much better. Crisp and refreshing with a hint of fruit but not overwhelming (yes, cucumber is a fruit, we will debate you on this, and we will win). We added both lime juice and zest to enhance
+the flavor and aroma. The resulting beverage has a fruity, almost melon-like quality, with an unmistakable cucumber finish. Show Less"
+$60 Nachos,4.035893854748603,388,IPA,Hoof Hearted Brewing,8.0,0,"$60 Nachos? That’s what happens when you let dad outta the house!
+
+Wanna drink some ice cold beer? Wayyyyelll Imma letcha! Prime that cheddar-cheese pump w/ the gooiest Citra, Simcoe, & El Dorado. Does it smell? NO! It stank! Plus – it itch. *SNORT* Show Less"
+I Must Look Like A Dork,4.035714285714286,22,IPA,Hoof Hearted Brewing,8.6,0,"Packed with enough lupulin dust to go straight through the floorboard of yr Econoline, this DIPA is jammin at rates eclipsing 51-50. HHB sognature strain, delivered with God-given accuracy, measuring un-told prophecy. What? Are you all a bunch of corn dogs? We didn't think so.. so dig this big crux! Show Less"
+Oubliette,4.034722222222222,38,Stout,Seventh Son Brewing Company,12.0,99,"Oubliette (\ˌü-blē-ˈet\) is a French term for a deep, dark forgotten dungeon devoid of light and hope. Our nearly opaque Imperial Stout is black as night with hints of plum at the edges and a rich tan head. Dark cocoa and roasted malt flavors are complimented by a lingering bitterness and a pleasingly warm alcohol glow. Show Less"
+Mirror Dimension,4.027777777777778,103,IPA,Wolf's Ridge Brewing,10.6,30,
+Insane Wanderer - Vol 2,4.019473684210527,101,IPA,Columbus Brewing Company,7.4,0,"Vol 2 bursts with aromas and flavors of ripe orchard fruit, mango, and passionfruit. Midwest grown Cashmere hops are highlighted, joined by Citra and Mosaic. Show Less"
+Irish Maidin Coffee Porter,4.017857142857143,15,Porter,2 Tones Brewing Company,6.5,25,"Our coffee porter starts with a base beer that’s smooth and roasty, with notes of cocoa, coffee, and dark fruits. Locally roasted coffee beans from Upper-Cup in Olde Towne East were added to create a well-balanced ale that will have both coffee and beer lovers buzzing! *Contains Lactose* Show Less"
+Dub Jam - Pain Killer,4.017857142857143,15,Sour,Saucy Brew Works,8.0,0,"Straight from the tiki bar. A careful blend of young coconut, ripe pineapple, orange zest, nutmeg, and dark rum on top of our Lachancea Tart base. Show Less"
+Uncle Joe's Irish Red Ale,4.013888888888889,21,Red Ale,2 Tones Brewing Company,6.0,18,"A well balanced Irish Red with notes of toffee, dark fruits, and a touch of roast. Juniper berries add a unique twist to this classic style ale. Show Less"
+Crumblin’ ERB,4.007142857142857,45,IPA,Seventh Son Brewing Company,8.25,0,
+Ghost Tropic,4.004032258064516,133,IPA,Forbidden Root Brewing Company,8.0,0,"NE style double IPA. Juicy body, waves of pineapple, canned peach finish."
+Stinks Güd,4.003658536585366,45,IPA,Saucy Brew Works,10.5,0,"Hugely citrus and mango forward, super hazy with a smooth mouthfeel and massive hop finish.
+*contains wheat Show Less"
+Hops Is Real,4.003430353430353,516,IPA,Columbus Brewing Company,8.3,0,An Ohio-made collaboration with Rhinegeist Brewery. Brewed with Nelson Sauvin and Mosaic Spectrum hops. Pours a deep golden hue with notes of tropical fruit and ripe stone fruit and a soft mouthfeel. Show Less
+Simple Times Blackberry Shandy,4.0,17,Shandy / Radler,North High Brewing,4.9,16,An infusion of organic blackberry juice locally handmade by Simple Times will instantly transport you to your favorite porch swing. Show Less
+Space Punch,4.0,22,IPA,2 Tones Brewing Company,9.0,40,"A super smooth double IPA, bursting with tropical fruit and citrus juice flavors. Brewed in the New England style. *Contains Lactose* Show Less"
+Double Passionfruit Ache,4.0,27,Sour,Heart State Brewing,7.8,0,"Pillow-like vanilla and sour passionfruit!
+Double Passionfruit Ache
+Sour ale brewef with passionfruit and vanilla Show Less"
+Cake In the Mash Tun,3.9972972972972975,39,Stout,Saucy Brew Works,9.5,0,"Our house white stout dialed all the way up and given a special cake treatment for an insanely decadent, red velvet inspired stout. Show Less"
+East Coast IPA,3.99625,45,IPA,Parsons North Brewing Company,7.2,87,"Tropical, Juicy, and Smooth. This Playful take on the predecessors to the New England IPA style is easily crushable. Show Less"
+Wilson,3.9952380952380957,89,IPA,Columbus Brewing Company,8.5,0,"Brewed for Buckeye Beer Engine (Lakewood, OH), this Double IPA features Chinook, Sabro, Citra, Talus, and Mosaic. Show Less"
+Double Guava Ache,3.9918918918918918,41,Sour,Heart State Brewing,7.8,0,
+Discount Nachos,3.9892617449664427,157,IPA,Hoof Hearted Brewing,7.3,0,"7.3%. DDH IPA with El Dorado, Bru-1, Citra, Strata hops."
+That's What Happens When You Put Ketchup On A Hot Dog,3.9843137254901957,54,Sour,Hoof Hearted Brewing,7.0,0,"Gose-style ale brewed with Raspberry, Passion Fruit, Lime, Coriander and Pinot Noir Salt Show Less"
+Wait Till Mom Finds Out,3.9833333333333334,16,Sour,2 Tones Brewing Company,4.3,0,
+Slipped My Rind,3.9833333333333334,35,Sour,Crooked Can Ohio,4.5,5,"Tart ale brewed with coriander, sea salt, and watermelon puree."
+WHERE THE SPIRT GOSE,3.98,27,Sour,Holy Trinity Brewing Co,5.4,0,"Sometimes in the world of beer and faith, another force leads the way and in this case where the Spirt went was into the tart and salty world of the Gose. With some passion fruit to lead the way the Spirit tugged, pulled, pushed and eventually the brewer followed into the nice and light summer style. This is a limited release as the Spirit didn't get a full batch to play with so enjoy it while it is here with us. Show Less"
+Beautiful Harmony,3.9793103448275864,30,Mild,Taft's Brewing Company,4.6,20,"Aged on Deeper Roots’ flagship La Armonia Hermosa, this Dark Mild brings balanced flavors of dark fruit and chocolate from the coffee along with bready, nutty, and toffee notes from the English Malts. Show Less"
+Are We Having Fun Yet?,3.978125,17,Pale Ale,Hoof Hearted Brewing,6.0,55,"A light and crushy crushy pale for those who are lookin to party down. Hopped with Falconers Flight and Australian Galaxy, we're showcasing our new favorite yeast strain formerly classified as a type of Brettanomyces. Since reclassified as a strain of Saccharomyces, it lends tropical fruit characteristics of mango and pineapple. ""You're not even a troll bro, you're just a haircut."" Show Less"
+Friends UP North (FUN),3.9778846153846152,55,IPA,Derive Brewing Company,8.5,35,"?NEW BEER ALERT ?
+
+Today we would like to introduce the continuation of our regionally focused DDH New England IPA series. FRIENDS UP NORTH!
+
+Friends Up North is an 8.5% ABV DDH New England DIPA brewed with a base of pilsner malts, torrified wheat, flaked white wheat and spelt. Extremely soft in the mouthfeelz! Hopped in the kettle and double dry hopped with new proprietary hops grown in Michigan. Hydra, Emerald Spire, and Paradigm from @hangemhighhops and Neo from Top Hops! These hops are some of the most unique and complex hops we've ever encountered. We taste strawberry Creamsicle, Virgin Mojitos on the beach and extremely ripe white peach. Show Less"
+Do You Remember Your Last Good Hair Day?,3.975,128,Sour,Hoof Hearted Brewing,5.5,46,"Dessert Berliner Weisse style ale Dry Hopped with Citra and brewed with lemon, marshmallow, vanilla and milk sugar. Show Less"
+About A Month IPA,3.9743589743589745,39,IPA,2 Tones Brewing Company,6.3,25,"This hazy IPA was brewed to have low bitterness and huge hop character. The citra and mosaic hop bill creates a beer with unique hop juiciness and strong, pleasant hop aromatics. Show Less"
+Pineapple Vanilla Friends Out West,3.9728395061728397,86,IPA,Derive Brewing Company,7.5,0,"Pineapple vanilla Friends Out West (7.5%) is a Double Dry-hopped New England IPA brewed with a base of pilsner malts and a copious amounts of malted spelt and flaked oats. We then hopped with beer with tons of our favorite dank and sticky varieties from our Friends Out West, Simcoe, El Dorado, Mosaic and the most aromatic Citra we could find. We then double dry-hopped this beer with the aforementioned hops at a dangerous level of 6 lbs per barrel.after that we add a ton of pineapple purée and Tahitian vanilla bean. We get, orange zest, orange julius, dank pineapple Sunday smoothies and pithy grapefruit scoops. Show Less"
+Make Mine Irish,3.96875,20,Stout,Land-Grant Brewing Company,8.4,33,"Sometimes a well brewed cup of coffee isn’t quite enough on its own. Sometimes a well brewed glass of beer needs a little something extra to push it over the top. Both benefit from a warming dose of whiskey. For that reason we brewed this hearty Irish Coffee Stout with Stauf’s whiskey-barrel-aged coffee beans, creating a compound of smooth chocolaty stout, roasted coffee, and rich, smoky whiskey. So when you’re craving a beer, a coffee, or a whiskey, might as well make yours Irish. Show Less"
+5Q,3.9680851063829787,52,IPA,Land-Grant Brewing Company,8.0,0,"Happy 50th, Q! This one’s for you! This Double Dry-Hopped IPA packs a milestone-worthy punch. Citra, Idaho-7, Mosaic, and Columbus hops deliver tangerine, Blueberry, Spicy Resinous Pine, and Stone Fruit flavor and aromatics. Cheers! Show Less"
+Foxbia,3.967283950617284,85,Stout,Saucy Brew Works,9.5,0,"This Imperial White Pastry Stout is Fauxbia's bigger brother, loaded with all the flavors of a rich, dark stout, and plenty of booze. Show Less"
+Beware the Friendly Dragon,3.9651162790697674,46,IPA,North High Brewing,8.0,0,Hazy DIPA
+It's Pouring Again,3.9606060606060605,36,IPA,Land-Grant Brewing Company,6.8,0,"We often get asked... ""What does IPA stand for?"" Well, in the Midwest in spring it might as well mean ""It's Pouring Again."" Don't fret through, when the rain spatters the window, there's no better companion than a juicy, tropical India Pale Ale to remind you of sunnier days ahead. This one here features Simcoe, Columbus, Sabra, and Amarillo hops for resinous Mango, grapefruit, stone fruit, and coconut flavor. Grab a six pack and your umbrella, spring is here. Show Less"
+Double Throb,3.9578947368421056,21,IPA,Heart State Brewing,8.8,0,"Double IPA. Bitter, hoppy, clean and juicy. Amarillo, Columbus, and Simcoe hops."
+Syzygy,3.9575757575757575,71,IPA,Seventh Son Brewing Company,10.0,100,"Syzygy (\ˈsi-zə-jē\) Citra, Simcoe, Cascade hops. Rye malt and flaked Rye. Tasting notes: Sweet pine, tropical fruits, mandarin orange, intense dry bitter finish. Name is a term for many things, most notibly a celestial alignment, like an eclipse. Hard to say. Show Less"
+Clockwork Universe,3.9552325581395347,90,IPA,Columbus Brewing Company,6.7,0,"Featuring Simcoe®, Citra® and Idaho7TM hops. Notes of mango, stone fruit, citrus and berries. Show Less"
+Club Paradise (Rum Runner),3.9543478260869565,24,Sour,Hoof Hearted Brewing,8.0,0,"Tiki Sour with Lime, Pineapple, Blood Orange and Blackberry"
+Don’t Staple the Tape,3.9537037037037037,29,IPA,Seventh Son Brewing Company,7.5,0,
+Did We Just Become Best Fwendz?,3.950892857142857,58,IPA,Hoof Hearted Brewing,8.0,70,Rotating dual hop series.
+Proliferous,3.9457831325301207,92,IPA,Seventh Son Brewing Company,8.2,85,Mosaic and a cast of supporting hops give this DIPA layers of tropical fruit and citrus with a bracing pine bitterness in the finish. Show Less
+Thirst Trap,3.9444444444444446,41,IPA,Saucy Brew Works,8.9,0,"Super smooth and deceptively strong Imperial Hazy IPA with notes of honeydew, mango, tangerine and apricot. Show Less"
+Topanga- Raspberry Cheesecake Sour,3.9431818181818183,23,Sour,Derive Brewing Company,5.4,14,Another sour from our Topanga series. We fruited it with 44 lbs of Raspberry’s per bbl along with 12 lbs of my style vanilla cheesecake powder. This is a real nice sour with a sweet dessert kick. Show Less
+Traveling Circus,3.9426470588235296,36,IPA,Derive Brewing Company,7.2,0,"In collaboration with lock 27 of Dayton. DDH hazy IPA and double dry hopped with Citra, Ekaunot and HBC 586. Fermented with omega cosmic punch Show Less"
+Bluegrass Burro,3.940740740740741,27,Sour,Pretentious Barrel House,9.2,0,A collaboration with our friends at Ethereal Brewing in Lexington Kentucky. We wanted to do a play on a Kentucky Mule so we made a special blend of fourteen month sour blonde. We transferred this blend to fresh Four Roses barrels for three months. Finished it with a little ginger and lime. We are glad we wrapped up this project just in time for Keeneland. Show Less
+Roller Blabe,3.9375,21,IPA,Hoof Hearted Brewing,8.0,103,"Slurp up the neon! One sniff and you'll be painted in animal print spandex and sporting a side pony tail and that's just the guys. Ready yourself for the taste of your fanny pack getting sucked into the tape deck. Bodaciously dry-hopped with the Dank n' Fruity combo of Mosiac, Simcoe, and Galaxy hops. Brewed under the watchful eye of AC Slater and Lisa Turtle, I mean John & Cindy from The Daily Growler. Show Less"
+From the Heart Volume 2,3.935185185185185,30,IPA,Land-Grant Brewing Company,8.8,0,"Hazy IPA brewed with Mosaic, Cashmere, and Citra hops."
+Falutin’,3.9325,21,IPA,North High Brewing,6.0,0,
+Orange Is Sus,3.932191780821918,76,IPA,Crooked Can Ohio,6.0,31,Milkshake IPA with Orange and Vanilla.
+Del Boca Vista,3.9285714285714284,42,Cream Ale,Land-Grant Brewing Company,5.3,0,"You're gonna be in the pool, you're gonna be in the clubhouse, and you're gonna be all over that shuffleboard court. You're going to need a rich, refreshing beverage to make the most of your time in the sun. Del Boca Vista is a Cream Ale brewed with coconut and whole vanilla bean. It'll have you headed to Florida in your mind, lock stock and barrel. Show Less"
+Tropical Hazy,3.9210526315789473,43,IPA,Zaftig Brewing Co.,6.0,0,"Hazy pale ale infused with passion fruit, orange, and guava."
+Breadbasket,3.9207317073170733,43,Golden Ale,Forbidden Root Brewing Company,7.2,100,
+Steel Toe Aqua Socks,3.9181818181818184,36,IPA,Hoof Hearted Brewing,7.5,0,"IPA w/ Citra, Sabro and Mosaic hops - 7.5% ABV"
+Thyme Signature,3.9166666666666665,42,IPA,Forbidden Root Brewing Company,8.2,0,Our First Botanical! A similar base of Ghost Tropic Dry hopped with Citra and Triumph! Than additions of Thyme and Orange Peel in the brite tank. Very excited to share this with everyone! Show Less
+Wee Heavy,3.9107142857142856,15,Scotch Ale / Wee Heavy,Zaftig Brewing Co.,10.0,43,"Our Scotch Ale is a beauty to behold featuring toffee, caramel, and dark fruit notes balanced with grassy, floral British hops. This brew is also quite well suited for gathering some age in a cellar and pairs well with smoked salmon, venison sausages, haggis, sticky toffee pudding, and
+smoked Gouda. Show Less"
+Buchenrauch,3.9107142857142856,15,Rauchbier,Wolf's Ridge Brewing,5.7,20,"2020: Bronze - Great American Beer Festival, Smoke Beer Category
+
+2021: Silver - US Open Beer Competition
+
+This traditional smoked lager style hails from Bamberg Germany. The name literally means ""beech smoke,"" which pays homage to the time honored tradition of smoking the malt over beech wood to create the signature smooth smokiness. Mahogany in color and rich in flavors of campfire smoke and crusty bread. Buchenrauch is crisp and savory. The lager yeast and cold aging provide smooth drinkability and will leave you wanting more than just one. Show Less"
+Erotic Sophistication,3.9107142857142856,16,IPA,Sideswipe Brewing,8.2,5,"Fruited Hazy Double IPA hopped with Sabro, Ella, Galaxy & El Dorado."
+Dank Costanza,3.908620689655172,32,IPA,Land-Grant Brewing Company,8.9,0,"You wanna piece of Dank? You got it! We hatched up this scheme of a Double IPA using Strata, Columbus, and Amarillo hops bring loud, in-your-face Grapefruit aromatics and flavor to the table. So grab a periodical, kick back and find some hoppy serenity, now. Show Less"
+Deflate Gate,3.906603773584906,56,IPA,Somewhere In Particular Brewing,6.5,0,"El Dorado, simcoe, citra hops"
+Mexican Lager,3.905882352941177,19,Lager,Parsons North Brewing Company,5.0,30,"Light, Smooth and Full. This Welcoming Mexican Lager goes great with tacos, burritos, quesadillas, tamales, nachos, chicken mole, tlayuda, pastor, pibil, enchiladas, chille relleno, pozole, chilaquiles, chapulines, guacamole, tomatillo salsa, tostadas and empanadas. Show Less"
+Discount Nachos (2022),3.9047619047619047,21,IPA,Hoof Hearted Brewing,7.3,0,"Heinously DDH with Bru-1, Citra, El Dorado and Galaxy hops"
+Nutty By Nature,3.9038461538461537,17,Brown Ale,Goodwood Brewing,6.0,23,
+Daybreak,3.9035971223021586,145,Cream Ale,Wolf's Ridge Brewing,5.0,14,"SILVER 2021 GABF
+GOLD 2020 GABF
+SILVER 2019 GABF
+
+GOLD 2021 US Open Beer Championship
+
+*plus many other accolades from every year we've been making Daybreak!
+
+Just as the break of a new day ushers in endless possibilities, this provocative variant of our popular Clear Sky Cream Ale awakens new and intriguing tastes. We infuse our pre-prohibition styled ale with light roast beans from Columbus’ own One Line Coffee in addition to robust vanilla. What results is an aroma that defies convention and a flavor that opens up like the new morning. Show Less"
+Cosmic Fog,3.902173913043478,25,IPA,2 Tones Brewing Company,8.4,40,"An easy drinking, extreme hopped experimental DIPA. A heavy dose of hops create a citrus forward profile along with pungent tropical fruits and a touch of dank. Show Less"
+COCO-BERRY JESUS,3.8960000000000004,25,Stout,Holy Trinity Brewing Co,9.6,32,"Gluttony is a sin, but that is immediately forgiven with this brew. One of our flagships, this raspberry forward and slightly sweet stout with a toasted coconut presence will lead anyone to multiple sins but be careful as this high gravity stout will catch up to you in a hurry. Being served on Nitro only makes it go down easier so if you want more than two you will need a designated driver to take the wheel. Show Less"
+BIG SKY DADDY,3.895348837209302,47,IPA,Holy Trinity Brewing Co,7.5,71,"Once upon a time there was an IPA. This IPA got tired of being ""West Coast"" and being ""Hazy"" so this IPA asked his higher power to make him something new or better. Big Sky Daddy responded and made this better version of the IPA and the ""Cold IPA"" was born. Starring six amazing hop varieties, adding rice to the grain bill, and getting carbonated the old fashioned way through krausening is what makes this style different. So, come on over to the cold side with the new Big Sky Daddy. Show Less"
+Kinetic Satisfaction,3.8947368421052633,20,IPA,Sideswipe Brewing,6.5,0,"A pale yellow cloudy IPA with lots of hop flavor without the added bitterness. Dry-Hopped with Citra, Mosaic, and Ella. Show Less"
+Slø Turbø,3.894230769230769,28,IPA,Hoof Hearted Brewing,8.5,0,"Unleaded super diesel icon ""Heavy Nelson"" slides off from the stage and into the crowd. He's locked eyes on Gary and needs to strike while the lights stay low.
+
+""Pizza Pizza Pizza"", he croons as a conga line grows behind him. Looking back, two thoughts occur in quick succession. The first: DIPA's hopped exclusively w/ New Zealand varietals and a laser-focus on Nelson Sauvin make all the girls want to get to know you. The second: he's only got one chance to make this right for everybody.
+
+""Heyyyy Gary from back the office who likes to order broccoli on the casual Friday staff pizza and only takes one piece for himself.."" Dipa with whole cone Southern Hemisphere Hops Show Less"
+SunRaze,3.892857142857143,23,Pale Ale,2 Tones Brewing Company,4.7,30,
+Blitz Pop,3.892857142857143,28,Sour,Somewhere In Particular Brewing,6.5,0,"""Bomb Pop"" Fruited Sour Ale brewed with Cherry, Lime and Raspberries. 6.5% ABV."
+Hazy Miss Daisy,3.889344262295082,65,IPA,Zaftig Brewing Co.,7.0,43,"Formerly One Night Stand batch #136. The tart juiciness created from her Amarillo and Mosaic hops, the light haze she has from the East Coast Style yeast makes Hazy Miss Daisy so exquisite, we just had to bring her back. Enjoy! Show Less"
+Walnut Brown Ale,3.888961038961039,78,Brown Ale,Goodwood Brewing,6.0,23,"You’ll go totally walnuts over this oak-aged, walnut-seasoned brown ale. Made with a brewing style that dates back to 16th-century England and using a blend of six choice malts and two English hops, Goodwood Walnut Brown Ale features notes of caramel and chocolate with a finish that is – you guessed it – pleasingly nutty.
+Show Less"
+IPA,3.886301369863014,538,IPA,Columbus Brewing Company,6.3,60,"Pale orange, with grapefruit, pine, and tropical fruit aromas
+
+India Pale Ales were originally brewed to withstand long ocean voyages by increasing the quantity of hops and malt used in their Pale Ale predecessors. Our take on IPA pours pale orange with a balanced malt presence and finishes with a combination of grapefruit, pine, and tropical fruit notes from Pacific Northwest grown hops. Show Less"
+Boo Thang,3.8862745098039215,54,Pumpkin / Yam Beer,Saucy Brew Works,8.5,0,"A full bodied, amber-colored ale, brewed with real pumpkin purée and spices, that comes in at a monster 8.5% ABV! Soft caramel sweetness up front fades into a sturdy malt back bone and finishes with cinnamon, nutmeg and a touch of ginger. Show Less"
+Cosmic Sauce,3.8842465753424658,78,IPA,Saucy Brew Works,8.5,0,"Tropical, juicy, and soft with a touch of alcohol heat with intense amounts of oat and wheat Show Less"
+Jimmy Dick’s Mango Meltdown,3.8833333333333333,60,Fruit Beer,Zaftig Brewing Co.,6.5,0,
+Dire Wolf,3.8825581395348836,47,Stout,Wolf's Ridge Brewing,10.8,50,"2017 Gold: Beer Army Beer Wars
+
+2016 Silver Medal: Best of Craft Beer Awards
+
+2015 Gold Medal winner: San Diego International Beer Competition
+
+Canis Dirus, or ""fearsome dog,"" is the scientific name for the Dire Wolf. One of the largest known breeds of wolf, the Dire Wolf went extinct at the end of the last ice age. Similarly, the Russian Imperial Stout was a beer style destined for extinction until craft brewers in America began to resurrect historical styles. Our Imperial Stout is named for the Dire Wolf because it is big, bold, and fearsome. Brewed with copious amounts of oats and brown sugar. Black as night with a dense tan head and chewy texture. Notes of dark chocolate, caramel, and espresso stand against a hefty bitterness to balance this monstrous beer. Show Less"
+LAST BREAKFAST,3.88125,17,Stout,Holy Trinity Brewing Co,10.4,59,"The last supper is forever remembered in a painting, but the Last Breakfast will be forever remembered by your taste buds. This powerful stout is loaded with smooth malts, maple syrup and finished with cold brewed bourbon barrel coffee from Backroom Coffee Roasters to wake you up in the morning (or the evening). Please be careful drinking these as they will catch up to you before you know it! Show Less"
+Spazzin' Out In the Basement,3.879245283018868,55,Lager,Hoof Hearted Brewing,7.2,0,
+Passion Fruit La Playa,3.8782608695652177,25,Fruit Beer,Columbus Brewing Company,4.5,0,"Tart golden ale brewed with wheat, passion fruit, and sea salt. Notes of citrus, strawberries, and passion fruit. Show Less"
+Parade Float,3.876190476190476,65,IPA,Derive Brewing Company,8.5,0,DDH DIPA with Riwaka and Motueka hops. 8.5% ABV.
+Tropical Tailwind,3.875,39,Stout,Columbus Brewing Company,6.1,0,A balanced stout ale conditioned on toasted coconut
+"Love You, Bye",3.875,185,IPA,Saucy Brew Works,8.0,80,"Medium bodied, permanently hazy and straw yellow. Bright flavors of fresh pineapple, melon, and ripe mangos, with the perfect amount of lingering sweetness.
+Show Less"
+3rd Rail Hazy Pale Ale,3.8693548387096777,64,Pale Ale,Crooked Can Ohio,5.3,20,Easy drinking. Citrus fruit hop flavor and aroma.
+Thunderkiss Morning Froth,3.867777777777778,91,Cream Ale,Derive Brewing Company,5.5,25,"Cream ale with Thunderkiss Coffee's Ethiopia Sidama Natural Bourbon Finished (In Middle West Spirits Dark Pumpernickel Rye Whiskey Barrels), Cinnamon, Vanilla Bean, and Lactose. Show Less"
+Cucumber Crop,3.8660714285714284,30,Blonde Ale,North High Brewing,4.5,12,
+Toe Beans,3.8653846153846154,42,IPA,Taft's Brewing Company,6.2,47,"Toe Beans is the first in our Feline Friends IPA series. Brewed with 5# of hops per barrel, this beer will be sure to make you purr. BRU-1 and Sabro hops combine to create flavors of coconut, pineapple, orange, lime, and a hint of mint. Show Less"
+Peanut Butter Stout,3.8645833333333335,26,Stout,North High Brewing,6.0,0,American stout with peanut butter. You can't go wrong. Unless you don't like peanut butter. Or stouts. Im jus sayn. Show Less
+Tarnished Elden Lord,3.863095238095238,45,IPA,Somewhere In Particular Brewing,7.5,0,"Traditional west coast ipa with Amarillo, Simcoe, and Chinook hops"
+Ache,3.8622222222222224,96,Sour,Heart State Brewing,5.5,0,"Orange Creamsicle Sour
+
+Brewed with orange and vanilla.
+
+Crisp, tart, fruity and sweet.
+
+Float in on clouds of orange and vanilla. Show Less"
+What're You Doing Here,3.8592105263157896,82,IPA,Land-Grant Brewing Company,7.0,0,"Take the Six Seven Oh to the Three One Five and take that on down to Town Street and cruise east til you catch the rich aroma of hops on the breeze. This IPA, fashioned after the classic West Coast IPAs that defined craft beer in the 2000s. Cascade, Amarillo, Centennial, and Summit hops give this beer a resinous grapefruit character with a bitter and clean finish. Show Less"
+Nobel Amalgamation,3.8576086956521736,59,Lager,Pretentious Barrel House,7.9,0,"A barrel aged lager brewed with our friends at Land Grant. The beer was lagered in gin barrels for 13 weeks. The final product has a beautiful balance of oak, malt, and botanicals. Nuanced and interesting yet familiar and approachable. Show Less"
+Culmination,3.857142857142857,15,Sour,Pretentious Barrel House,7.1,0,Our dark sour handles age better than our blonde and red recipes. It is able to reach several years of age without becoming too acetic or oxidized. This is the oldest blend we have ever released and it is paired with the rich flavor of Apricot. Show Less
+Friends Out West,3.8559523809523806,44,IPA,Derive Brewing Company,7.5,0,"Friends Out West (7.5%) is a Double Dry-hopped New England IPA brewed with a base of pilsner malts and a copious amounts of malted spelt and flaked oats. We then hopped with beer with tons of our favorite dank and sticky varieties from our Friends Out West, Simcoe, El Dorado, Mosaic and the most aromatic Citra we could find. We then double dry-hopped this beer with the aforementioned hops at a dangerous level of 6 lbs per barrel. We get, orange zest, orange julius, dank pineapple Sunday smoothies and pithy grapefruit scoops. Show Less"
+Uncappd,3.8552631578947367,24,Lager,Sideswipe Brewing,5.2,20,If you don't post about it did you even drink it?
+SNEAKY JESUS,3.8549999999999995,22,Belgian Tripel,Holy Trinity Brewing Co,8.5,21,"Jesus is always around, but when you drink a couple of these easy going brews he will sneak up on you and before you know it you'll be on the floor. What a prankster! This Tripel is a pleasure to drink with friends and tell stories. Those of you that aren't sure about Belgian styles, add this one to your flight and you will start enjoying! Show Less"
+Marathon,3.8541666666666665,28,Lager,Seventh Son Brewing Company,3.0,0,
+Liquid Gold,3.8541666666666665,25,IPA,Somewhere In Particular Brewing,9.2,0,
+Club Paradise (Navy Grog),3.8529411764705883,17,Sour,Hoof Hearted Brewing,5.5,0,"Imperial ‘Tiki’ Sour Ale with sweet cherry, orange, grapefruit and lime purée added. Inspired by the Navy Grog cocktail. Show Less"
+UDF Strawberry,3.851923076923077,30,IPA,Taft's Brewing Company,7.2,68,Strawberry Milkshake IPA
+The Whole Carton,3.850925925925926,58,Stout,Saucy Brew Works,7.3,0,"Full-bodied stout on nitro with a soft toasted coconut nose, deep roasty notes, and a silky and lightly salty finish Show Less"
+Capital Companions,3.849056603773585,114,IPA,Land-Grant Brewing Company,6.8,0,"Like birds of a feather, you'll always find Columbus and Mosaic hops aflight upon the aromatic winds of dank citrus and resinous tropical fruit. These airborne companions blow in a foggy, hazy cloud of huge flavor and juicy vibes throughout the Capital City. Show Less"
+UDF Milkshake IPA,3.846296296296296,118,IPA,Taft's Brewing Company,6.6,30,"United Dairy Farmers meets Big Billy Taft in a delicious mashup. This hoppy and creamy milkshake IPA is brewed with heaps of hops, lactose, oats, and flaked wheat to bring you a refreshing, adults-only treat. Show Less"
+Glad Hands,3.846296296296296,59,Pale Ale,Derive Brewing Company,5.5,51,"Hazy Pale Ale- Malt: Pilsner, Oats, Spelt. Hops: Citra, Mosaic, El Dorado, Simcoe"
+Break,3.8456043956043953,98,IPA,Heart State Brewing,6.5,0,"Brewed with Mosaic, Simcoe and Citra hops.
+
+Soft, tropical, juicy and easy.
+
+Just the way we like 'em. Show Less"
+Heartfelt,3.8445945945945947,78,IPA,Seventh Son Brewing Company,7.0,0,
+Incarnadine,3.84375,17,Sour,Pretentious Barrel House,5.8,0,"Sour blonde with red and purple plums. Juicy and tart, the combination of these two plums give off a tropical fruit aroma and flavor. The bright pink color doesn't hurt either. Show Less"
+Little Friends,3.8434782608695657,23,IPA,Derive Brewing Company,6.8,0,DDH HAZY IPA
+Lemongrass Wit,3.8425925925925926,57,Wheat Beer,Seventh Son Brewing Company,4.9,10,"A new-world spin on the classic Belgian Wit. Lemongrass, lime leaves and Lemondrop hops combine with fresh ground coriander to give this quenching wheat ale a citrusy zip. Show Less"
+Jim Loves A Blonde Ale,3.8400000000000003,16,Blonde Ale,Spires Social Brewing Co.,5.7,0,Our blonde ale was brewed to be an easy drinker. It is lightly hopped with a malty sweetness and bready finish. You'll definitely have more fun pairing up with this one. Show Less
+Closet Troll,3.838709677419355,34,Stout,Zaftig Brewing Co.,11.0,0,"Rich, dark, and mysterious - Closet Troll is not only robust, but rages with notes of roasted barley & chocolate with an earthy bitterness that seeks to overwhelm the drinker, but is cleverly balanced by the milk sugars to finish perfectly. Show Less"
+Berry Shandy,3.8333333333333335,19,Shandy / Radler,North High Brewing,4.9,16,An infusion of organic blackberry juice locally handmade by our friends at Simple Times. Show Less
+League Night,3.8333333333333335,25,Golden Ale,Forbidden Root Brewing Company,5.7,0,Tart Golden ale with Raspberry and Lemon
+Melodious,3.8328125,34,Sour,Pretentious Barrel House,7.6,0,"Our dark base with sweet cherries. This is our first time using sweet cherries, but not our last. This beer smells of cherry skins and has a roasty, dry finish. Show Less"
+Bourbon Barrel Stout,3.8325842696629215,95,Stout,Goodwood Brewing,8.0,33,"This silky American stout has notes of oak, dark roasted malts and, of course, bourbon. Roasted barley produces chocolate and coffee flavors with a lasting vanilla finish. Show Less"
+"Who’d Like To Hold My Clipboard? (Mango, Peach & Vanilla)",3.8323529411764707,37,IPA,Hoof Hearted Brewing,9.0,0,
+I Can Teach Blue 2022,3.831967213114754,64,IPA,Saucy Brew Works,7.5,0,"Brewed with wheat, two types of oats, and milk sugar for a thick, milkshake like body. Sabro hops are added to bring out berry and tropical notes, then we finish this beer with loads of fruit purée and vanilla beans. A soft and Smooth IPA with mild bitterness, blueberries and vanilla on the finish. Show Less"
+Bend & Snap,3.829861111111111,79,IPA,Saucy Brew Works,7.0,0,"A beautiful deep gold American IPA, with hop notes of peach, blackberry and deep hop resin Show Less"
+For the Cause,3.8289473684210527,19,IPA,Columbus Brewing Company,7.5,0,"Hazy IPA brewed with Talus, Strata, and Columbus Cryo hops. Proceeds support Pelotonia and cancer research. Show Less"
+2022 Haze Odyssey,3.828125,16,IPA,Barley's Brewing Company (Brew Pub),6.0,0,
+Mullet Wrangler,3.8275862068965516,31,IPA,Sideswipe Brewing,6.9,60,This ‘Merican IPA is packed full of hoppy freedom juice!
+Helmet Nachos,3.8260869565217392,24,IPA,Hoof Hearted Brewing,8.0,45,
+2001: A Haze Odyssey,3.8260869565217392,24,IPA,Barley's Brewing Company (Brew Pub),6.5,0,
+Indigenous,3.8241379310344827,31,Sour,Pretentious Barrel House,6.9,0,"Since modern beer orginates from Europe, the ingredients tend to mirror that. We believe that beer should try and reflect the local flora and fauna. Our local maltster Matt Cunningham of Rustic Brew Farm produced some lovely malted corn for us. After over 11 months in barrels, we got this wonderful beer that highlights the barrel and local malt. We plan to further explore this style while highlighting more native grains in the future. Show Less"
+Howdy Howdy,3.823529411764706,19,Pale Ale,Seventh Son Brewing Company,5.2,0,
+Summer At Grandma's,3.8220588235294115,36,Farmhouse Ale,Derive Brewing Company,5.0,32,A classic and refreshing Saison conditioned on strawberry puree and rhubarb.
+Prickle Rick Sour,3.8208333333333337,36,Sour,Somewhere In Particular Brewing,7.0,0,
+Limit Break,3.820588235294118,92,Sour,Wolf's Ridge Brewing,5.5,8,Berliner Weisse brewed with blackberry and key lime. Sold in 16oz 4-packs.
+Septemberfest,3.8199029126213593,108,Festbier,Wolf's Ridge Brewing,5.7,0,
+Dunkel Rico,3.8193548387096774,33,Lager,Taft's Brewing Company,5.2,25,"Brewed with prized Barke Munich malt with notes of bread crust, dark caramel, and toasted nuts. This dark lager will have you throwing over the mountains and winning state. Show Less"
+Stone Fort,3.8191176470588233,37,Brown Ale,Seventh Son Brewing Company,5.0,21,"A toasty oat brown ale w/accessible English ale character and a smooth blend of light roast coffee, cocoa, leather biscuit flavors. Named for the oldest structure in Ohio. Show Less"
+Massive,3.818803418803419,131,Pale Ale,Land-Grant Brewing Company,5.0,28,"Chosen from four recipes by the passionate supporters of Columbus Crew SC and brewed with Club and City in mind, Massive is a Juicy Pale Ale with Mosaic, Citra, and Cashmere Hops.
+
+At each home Crew match rise up, be Massive and join Columbus Crew SC in recognizing the brave men and women of our armed forces through the team’s Hometown Heroes program presented by Land-Grant Brewing Company. Glory to Columbus, indeed. Visit crew.sc/hero to learn more about the program, and nominate your own Hometown Hero. Show Less"
+2 Tones IPA,3.8125,16,IPA,2 Tones Brewing Company,7.0,52,"2 Tones flagship IPA. An easy drinking, hop-forward ale with a tropical and citrus profile. Moderately bitter with a dry, yet deceptively sweet hop candy finish. Show Less"
+Who's In Charge Here?!,3.812244897959184,53,IPA,Seventh Son Brewing Company,7.7,0,Hop forward with a pop of tropical flavors
+Taft's Fruit Tarts: Blueberry Lemon,3.808333333333333,97,Fruit Beer,Taft's Brewing Company,5.0,5,"Introducing Taft's Fruit Tarts!
+Our first flavor will knock your socks off. Our Fruit Tarts Blueberry Lemon Ale is bursting with real fruit flavors. Punches of juicy blueberry and lemon shine through in every sip! Show Less"
+Derive Vanilla Nitro Gaslit Pathways,3.8078947368421048,19,Porter,Derive Brewing Company,5.6,0,
+Margarita La Playa,3.8078947368421048,39,Fruit Beer,Columbus Brewing Company,4.5,0,"Tart golden ale brewed with wheat, lime concentrate, and sea salt."
+Say Watt,3.8076923076923075,15,Kellerbier / Zwickelbier,Edison Brewing Company,5.5,0,James in the Raw form. This unfiltered Helles offers you the taste of the kettle. Yeast and hops characteristics makes the hazy lager taste quite different than the pale version. Show Less
+Rivergoat Maibock,3.8060606060606057,38,Bock,Goodwood Brewing,7.2,21,An amazing Maibock brewed with the 2022 Bockfest in mind.
+Stiff-Arm IPA,3.8043478260869565,24,IPA,Land-Grant Brewing Company,6.4,50,"Like a palm to your jaw, our American IPA delivers a jolt of hoppy goodness. An ale as well rounded as any All-Timer, our Stiff-Arm IPA combines all of its talents: All American hops, fragrant aromas of citrus and pine, a clean finish, and an uncanny sense of balance provided by a nice malt backing. It’s a classic American beer that will have you striking the pose year-round. Show Less"
+UDF Strawberry Milkshake IPA,3.8,47,IPA,Taft's Brewing Company,6.6,30,"Punches of juicy strawberries shine through heaps of hops, lactose, oats, and flaked wheat for a new twist on a classic Cincinnati treat. Show Less"
+Creamsikölsch,3.798780487804878,183,Kölsch,Land-Grant Brewing Company,4.9,24,"The return of an old favorite. We first brewed our take on the creamsicle back in 2015, and now it has finally arrived in cans. A crisp Kölsch backbone serves up intense summer-friendly aroma from the addition of orange and vanilla beans. These flavors blend together in such sweet nostalgic harmony, you can almost hear the ice cream truck coming down the street. Scrounge up some change, and enjoy a refreshing Creamsikölsch, there’s nothing better. Show Less"
+Starlight Navigation,3.7979532163742693,177,IPA,Wolf's Ridge Brewing,6.6,23,"This IPA was brewed with distinctive Southern Hemisphere hops: Nelson Sauvin and Galaxy. The hops traveled the world to arrive in your glass. We named the beer as an ode to the brave seafarers who used to guide their ships by the light of distant stars from our galaxy and beyond. Juicy, tropical hop notes mingle with peach, white grape and pine flavors. Show Less"
+Hefe & Wedge,3.7977777777777777,50,Wheat Beer,Wolf's Ridge Brewing,5.2,12,Our Hefeweizen infused with fresh orange.
+Overcompensator,3.7941176470588234,17,Bock,Crooked Can Ohio,7.3,18,"Dark lager with an abundance of flavor. Chocolate, raisin, and toast."
+AlvAnother,3.7916666666666665,27,Scottish Ale,Edison Brewing Company,5.7,0,"A Scottish Ale with a soft, malty, creamy body. Caramel and butterscotch aroma notes; flavor of malt, caramel with a touch of molasses. Just enough subtle dryness in the finish to balance the maltiness. Show Less"
+Hefeweizen,3.790566037735849,56,Wheat Beer,Wolf's Ridge Brewing,5.0,14,"Bronze medal 2017: Beer Army Beer Wars
+
+Our classic Hefeweizen is brewed in the traditional German manner. The malt bill is primarily composed of German wheat. Hop additions are kept low to accentuate the yeast characteristics. Bright sunny aromas of banana and clove mingle with a light bodied golden wheat flavor. Notes of fresh citrus also come forth through the lively carbonation. Traditionally unfiltered. Best enjoyed with brunch, lunch, or anytime several beers are preferable to one strong beer! Show Less"
+Hopelessly Awake,3.789473684210526,20,Blonde Ale,Sideswipe Brewing,4.5,15,Blonde ale infused with coffee and vanilla.
+Lil Vata,3.7892156862745097,55,Lager,Ohio Brewing Company - Columbus,4.6,10,MEXICAN LAGER – A crisp and refreshing Mexican-style lager. Goes great with sunburns and sandy toes. Show Less
+Joe Brrr,3.7880434782608696,51,Lager,Taft's Brewing Company,6.4,55,"We brewed this one cold in honor of Joe Cool. Mosaic and Sabro give notes of coconut, blueberries, and sweet tropical fruits. Pairs perfectly with a victory cigar. Show Less"
+The Scientist,3.7866438356164385,157,IPA,Seventh Son Brewing Company,7.0,75,"A light bodied, hop forward IPA... constantly shifting. Each batch has one ingredient changed from the last. Expect changes as we find the right balance of hop notes Show Less"
+Humulus Nimbus,3.786075949367089,168,Pale Ale,Seventh Son Brewing Company,6.0,53,"A pale golden ale that is both super crisp and super hop forward with a refreshing mouthfeel and a summer friendly 6% abv. Mosaic & simcoe hops lend tart blueberry and fragrant pine to a pleasingly bitter dandelion finish. We wanted the hops to be the star in this seasonal offering taking its name from both the hop plant, Humulus Lupulus, and its light color and cloud-like feel, nimbus.
+*Pairs well with a wide range of foods from roast chicken to burgers to fish and chips, appropriate cheeses could range from a mild blue such as Gorgonzola to a traditional cheddar or Derby with Sage. Show Less"
+Purple Pils,3.782608695652174,26,Pilsner,Forbidden Root Brewing Company,5.1,0,Brewed with lavender and violets.
+High Stepper,3.781481481481481,27,IPA,Crooked Can Ohio,7.0,75,Piney hop bitterness with a refreshing citrusy finish.
+Desert Spoon,3.7809523809523813,48,Lager,Pretentious Barrel House,8.0,0,"Cheers to our friends at Land Grant for trying new things with us! Prior to this collaboration we had never heard of Sotol. It is a spirit native to Mexico and derived from the Sotol plant or ""desert spoon"". After 13 weeks in the barrel the resulting beer is soft and complex; perfect for the hot weather, and could even be accentuated with a lime wedge. Show Less"
+Life In The Lime Light,3.7794117647058822,18,Sour,Somewhere In Particular Brewing,5.7,0,"Sour Ale Brewed with Tangerine Puree and Fresh Lime Juice. Tart, Crisp, Refreshing Sour With Lime up front and Tangerine finish. Show Less"
+"America, Helles Yeah!",3.779166666666667,16,Lager,Grove City Brewing Company,5.0,17,"This German helles lager is a collab with our friends at Goodwood Brewing. We love German lagers and love America. Coming out around July 4th, this crisp drinking, bready helles will be the beer to cheers with at this celebratory time of year. Show Less"
+Pride & Joy,3.7785714285714285,24,Fruit Beer,Taft's Brewing Company,4.6,13,The 2022 version of our annual Pride beer is brewed with buckets of Kabosu juice(think Japanese lime) and Tangerine purée. Help celebrate Pride across the Queen City and across Ohio! Show Less
+Too Cans,3.776190476190476,21,IPA,Zaftig Brewing Co.,13.0,67,"Not your typical IPA. We take an extreme amount of grain and hops to produce this full-bodied and well proportioned beer that defines Zaftig. Too Cans has a blend of floral and citrus hop aroma, malty caramel taste with a clean finish leaving you thirsty for more. Show Less"
+Hopes,3.7746913580246915,93,IPA,North High Brewing,7.3,48,"Although it may not have turned out quite as hazy as we’d hoped, this is one outstanding NEIPA. Show Less"
+Cloud Spell,3.774193548387097,31,Pale Ale,Columbus Brewing Company,5.1,0,"Hazy pale ale brewed with Omega Sun Dew yeast, Citra, Azacca, and El Dorado."
+Parking Lot Carnival,3.7738636363636364,47,IPA,Derive Brewing Company,6.7,0,
+CALL THE DOCTOR LORD,3.77258064516129,36,Kölsch,Holy Trinity Brewing Co,5.0,22,"You put the lime in the coconut then what do you do? This smooth summer splash brewed in the Kolsch style will have everyone asking what to do which begs the question, do you ""Call the doctor, Lord?"" or do you ""Call the Doctor Lord???"" Show Less"
+B.F. HEFE,3.7715686274509803,52,Wheat Beer,Saucy Brew Works,5.5,0,"Light to medium bodied with a wheaty, banana-like flavor."
+Orange Creamsicle Double Ache,3.7698275862068966,61,Sour,Heart State Brewing,7.8,0,
+Zappa Hops IPA,3.7683673469387755,52,IPA,North High Brewing,7.0,0,
+Juicy Asap,3.7671206225680933,275,IPA,Saucy Brew Works,6.5,0,"Our best selling IPA is deep gold in color, with an opaque sheen. Dripping with ripe mango, orange peel and a finish of dank hops, with a crisp, refreshing bitterness. Show Less"
+Mainstream Exotic,3.7670454545454546,49,Sour,Forbidden Root Brewing Company,4.5,0,"Delightfully sour, bright, and refreshing. Mainstream Exotic combines a tart low-alcohol base beer with Feijoa, a South American fruit with notes of mint, apples and pineapple. Show Less"
+Club Paradise Imperial ‘Tiki’ Sour Ale,3.7666666666666666,17,Sour,Hoof Hearted Brewing,8.0,0,"Imperial Sour Ale with pineapple, blood orange, blackberry, and lime added."
+Electric Lettuce,3.766,136,IPA,Saucy Brew Works,7.5,0,"As this wafts past your nose, enjoy the aroma of grapefruit, pine, and orange with undertones of peach. Flavors of melon, grapefruit, and sweet candy poise the assertive bitterness of this West Coast IPA. Show Less"
+Florida Room,3.762121212121212,71,Pilsner,Hoof Hearted Brewing,5.0,0,"Dry-hopped Pilsner made with 100% Pilsner malt, grown in Ohio, and hopped with Huell Melon!! A new German hop that has hints of...melon! Show Less"
+Oktubberfest,3.760204081632653,51,Festbier,Taft's Brewing Company,5.7,30,Our Festbier shines a deep golden orange with German malts and hops in all the right places. Show Less
+Kölsch,3.7596153846153846,29,Kölsch,Parsons North Brewing Company,5.0,32,"Crisp, Dry, and Light. This Kölsch will leave you feeling Spry on a warm summer’s day. Show Less"
+Mulberry Saison,3.7586206896551726,32,Farmhouse Ale,Parsons North Brewing Company,7.6,20,"Spicy, Balanced, and Smooth. Mulberry juice offers an Unconventional balance to the spice of the saison yeast. Show Less"
+Tilt Back,3.7571428571428576,47,Lager,Wolf's Ridge Brewing,4.9,20,"Our extremely clean, malty red lager is the brainchild of brewer Francis Kunkler. Designed to be easy drinking with classic German ingredients. Prost! Show Less"
+Endless Haze,3.7545698924731186,196,IPA,Columbus Brewing Company,6.1,30,"Endless Haze is a smooth, easy-going hazy IPA. It’s your patio pal, grilling sidekick and wilderness companion. An easy-drinker best served in your natural element with laidback friends and a great view. The bright golden color gives way to a smooth haze while the aroma takes you to the tropics with juicy notes of pineapple, banana, stone fruit and citrus. It’s full-bodied, smooth and endlessly drinkable. Show Less"
+JESUS WAS A SMOOTHIE,3.7527027027027025,38,IPA,Holy Trinity Brewing Co,7.1,40,"There was nothing Jesus liked more than putting fresh fruit in a blender with some ice and milk and enjoying it right before Yoga. Well, nothing he liked more except beer so we decided to bring it all together in this milkshake IPA. This double dry hopped IPA is loaded with lactose and a light strawberry finish and will easily be loved by IPA and non-IPA drinkers alike. Show Less"
+Willy Goat,3.75,19,Bock,Edison Brewing Company,5.1,0,"Malty, with a balanced aroma of Munich, brown and colored malts. Light hop flavor with a dry finish. Show Less"
+Mike’s Snobby Style,3.75,21,IPA,Goodwood Brewing,8.3,84,
+Gavel Banger,3.748447204968944,176,IPA,Taft's Brewing Company,7.0,65,"American IPA brewed and dry hopped with heaps of Citra and Mosaic hops. Juicy, hoppy justice.
+
+2019:
+Gold - Ohio Craft Brewers Cup Show Less"
+Standard Universe,3.746875,18,Wheat Beer,Derive Brewing Company,5.0,0,
+Juicy Lucy,3.743258426966292,97,IPA,Zaftig Brewing Co.,7.0,42,Juicy Lucy is Zaftig's take on a traditional American IPA. This juice bomb is double dry-hopped with Rakau and Citra hops giving it a light fruity nose. It will keep people begging to mow their lawns! Show Less
+Larsol,3.7424999999999997,20,Farmhouse Ale,Forbidden Root Brewing Company,6.3,0,
+Scofflaw Scottish Ale,3.7413793103448274,31,Scottish Ale,Temperance Row Brewing Co.,6.0,0,
+Reunited,3.7411764705882353,54,Sour,Taft's Brewing Company,4.4,6,"Summer is here, and it feels so good. Reunited is a light and approachable Berliner Weisse with just the right amount of real peach and hand-picked basil to remind you of the best parts of the season. Show Less"
+Rusty Bucket Jeffrey Pilsner,3.7394736842105263,20,Pilsner,North High Brewing,4.2,0,Light
+Throb,3.73781512605042,125,IPA,Heart State Brewing,7.0,0,"Brewed with CTZ and simple hops. Bitter, hoppy, clean and juicy. Remember what IPAs used to taste like? We do! Show Less"
+One Night Stand Batch #479,3.7375,21,Stout,Zaftig Brewing Co.,7.7,0,"This easy drinking stout clocks in at 7.7% ABV with a rich nose, sweet notes of cocoa at first sip, and a bittersweet chocolate finish. Show Less"
+Blood Thirst Wheat,3.7363636363636363,46,Wheat Beer,Barley's Brewing Company (Brew Pub),5.0,3,Winner of our 14th annual Homebrew Competition in 2009. Lloyd Cicetti's Wheat Beer with Blood Oranges is a citrusy and supremely refreshing with floral notes thanks to Sicillian blood orange zest added to the brew kettle and puree added during and after fermentation. This hefeweizen has hints of fruity esters and spice from Bavarian wheat yeast. Show Less
+Les Slø Tour Beaux,3.7341911764705884,141,Sour,Hoof Hearted Brewing,5.0,0,Hydroquench Ale w/ Lemon and Raspberry
+POPE PILS I,3.7333333333333334,35,Pilsner,Holy Trinity Brewing Co,4.7,35,There will likely not be an American Pope in the foreseeable future but that doesn't mean we can't have an American Pope Pilsner! This clean and crisp Pilsner was fermented under pressure (just like an American Pope would be) and splits its malt makeup with some German as well as American malts. Note this is Pope Pils I. Does this mean it is first in the series? Could be the plan! Show Less
+Gonna Need A Bigger Oat,3.73287037037037,119,Pale Ale,Saucy Brew Works,5.8,0,"Thick oat body with a smooth hop bitterness and big aromas of dank orange, fresh pineapple, green grass and lightly toasted coconut Show Less"
+Lemon Glow,3.7328025477707003,170,Pale Ale,Land-Grant Brewing Company,5.8,28,"Cut through summer’s malaise with this zesty, luminously Hazy Pale Ale that packs a whole grove’s worth of lemon-forward hoppy zeal. Brewed not with actual lemons but with hop varieties—Lemondrop, Loral, Citra, and Centennial—that deliver a perceived golden citrus punch. Kick your feet up and peel back the top and bask in the Lemon Glow. Show Less"
+Garden of Statues,3.7310810810810815,38,IPA,Derive Brewing Company,6.5,0,"Hazy IPA Double Dry Hopped with Medusa, Citra and Nelson Sauvin hops and a base of white wheat. 6.5% ABV. Show Less"
+Rosé Gosé,3.7304347826086954,25,Sour,Hoof Hearted Brewing,4.2,5,"Just when you thought you had done slurped up all the neon, well, you done thought wrong. Rosé Gosé is hot pink in appearance with a tart berry flavor. Brewed with Himalayan Pink Sea Salt, Coriander, Hibiscus, then soured with Lactobacillus and fermented with Saison yeast. Slicker than your rich, French uncle sippin pink vino on the deck of a yacht off the coast of St. Tropez. Anchors down, pinkies up! Show Less"
+I Wanna Be A Cowboy Too,3.729347826086957,49,IPA,Hoof Hearted Brewing,5.5,0,Double dry hopped sour india pale ale with vanilla and milk sugar
+Drake's Lager,3.727272727272727,26,Lager,Goodwood Brewing,4.3,0,"Light taste, a little hoppy finish"
+11th Commandment,3.726785714285714,30,Sour,Holy Trinity Brewing Co,6.5,5,"Most people don't know the 11th Commandment is ""Thou shalt not brew a sour beer."" We are familiar with that commandment here at Holy Trinity Brewing but the pressure has finally turned us to the dark side, though not completely. We have made a sour beer, though it has ample amounts of lactose to sweeten it up as well as plenty of apples and a touch of pie crust flavor to make it not ""completely"" sour. Enjoy this brew and thank the apple that Eve (Emily) picked to make this beer happen. Show Less"
+99 Balloons,3.725,22,Wheat Beer,Columbus Brewing Company,5.3,0,"Bavarian-style Hefeweizen brewed with large amounts of malted wheat and featuring aromas of banana, clove, and citrus. Show Less"
+Strings,3.723076923076923,26,Red Ale,Heart State Brewing,5.2,0,"Light, crisp, malty and clean."
+Raspberry Wheat,3.7222222222222223,18,Fruit Beer,Barley's Brewing Company (Brew Pub),5.4,0,
+Bomb-Pop 1862,3.722,25,Kölsch,Land-Grant Brewing Company,4.9,33,"Our 4th of July variant makes its return! To emulate the flavors of the patriotic treat, we've added cherry, raspberry, and lime to our 1862 Ale. Show Less"
+Skittley Bittley Bop,3.7218750000000003,54,Sour,Hoof Hearted Brewing,8.0,0,"Kettle soured ale with raspberry, blueberry, vanilla, and coffee added."
+SAINT AARON,3.7205882352941178,20,IPA,Holy Trinity Brewing Co,10.0,88,"Across the world, Saints are revered for the things they have done in life. So it goes in the brewery where we honor special people for all they have done to make Holy Trinity Brewing happen. This particular beer lets you know its Imperial status with a high alcohol content and Warrior hops to add a lot of bitterness. Dry hopped with Citra and Cascade hops to add that wonderful hop aroma finishes this beer as a tribute to our Saint Aaron. Show Less"
+Est 1852 Lager,3.72,25,Lager,Crooked Can Ohio,5.2,18,Crisp summertime lager with a malty backbone and subtle rye spice.
+Paint It Schwarz,3.719672131147541,65,Schwarzbier,Saucy Brew Works,5.3,0,"This lager was cool fermented but shares a lot of similar characteristics to a stout. It’s roasty, chocolate forward, and medium to thin-bodied. ⁠ Show Less"
+Double Single,3.719148936170213,50,Pale Ale,Forbidden Root Brewing Company,6.2,0,Super crisp single malt and single hop pale ale. Just the right amount of hops to make you crave another one or three. Show Less
+Ohi-Yo Heartland Lager,3.71875,17,Lager,Crooked Can Ohio,5.0,12,"Clean, crisp, all Pilsen Malt Lager with a faint floral hop finish."
+James,3.717741935483871,33,Lager,Edison Brewing Company,5.5,0,"Golden maltiness of sweet grain, soft on the palate. Minimal Hop make this an easy drinking lager. Show Less"
+Drugan Weizen,3.717241379310345,34,Wheat Beer,Goodwood Brewing,5.5,13,Hefeweizen is a South German Style wheat ale with a haze from the wonderful ale yeast in suspension. Wheat malt gives a sweet flavor while the aromas fro the fluctuation of fermentation temperatures bring clove and banana notes. Show Less
+Jeff Ruby Ipa,3.716666666666667,15,IPA,Taft's Brewing Company,6.7,0,Am exclusive for Jeff Rubys
+Saison,3.715909090909091,25,Farmhouse Ale,Derive Brewing Company,5.0,0,
+Everything's Pine,3.7152777777777777,38,Pale Ale,Land-Grant Brewing Company,5.2,55,"Brewed in collaboration with our friends at Pins Mechanical, this crushable Juicy Pale Ale features Azacca, El Dorado, and Chinook hops with aromatic notes of pine and pineapple - because I'm Pine...It's Pine...Everything's Pine. Show Less"
+The Light Inside the Darkness,3.7142857142857144,15,Porter,Goodwood Brewing,5.1,24,
+Cinnamon Toast Brunch,3.713247863247863,122,Cream Ale,Wolf's Ridge Brewing,5.0,14,"Clear Sky Cream Ale infused with One Line coffee, vanilla, and cinnamon.
+
+Gold Medal: 2017 Indiana Brewers Cup Show Less"
+Ache Strawberry Creamsicle Sour,3.7129032258064516,31,Sour,Heart State Brewing,5.5,0,Sour ale with brewed with strawberry and vanilla
+Pack IPA,3.7121794871794873,82,IPA,Wolf's Ridge Brewing,6.8,70,"From our pack to yours, we invite you to share and enjoy this IPA wherever your path leads you. Brimming with citra, mosaic, and amarillo hoppy goodness. Pack is the perfect companion for any and all awaiting adventures. Show Less"
+Citrus Surf,3.7099236641221376,137,IPA,Wolf's Ridge Brewing,4.6,50,"Easy IPA infused with fresh grapefruit, orange, and lime zest."
+Hop Harmonics,3.7094594594594597,40,Brett Beer,Wolf's Ridge Brewing,6.0,0,Barrel Aged Brett Mandarina Bavaria IPA
+Infinity Hops,3.708888888888889,46,Pilsner,Taft's Brewing Company,5.2,42,"We searched the galaxy far and wide for the hops in our new Hopped Pilsner. Bold in both hop aroma and flavor, this crisp, dry brew has subtle malt and clean yeast characters that all come together to make the ultimate beer. Show Less"
+Four Pillars,3.7083333333333335,18,Pale Ale,Land-Grant Brewing Company,5.3,45,"This beer is brewed to commemorate the First Anniversary of Columbus' National Veterans Memorial and Museum which was founded under the four guiding pillars to Honor, Connect, Inspire, Educate. Proceeds from this beer directly benefit its mission. Show Less"
+River Surfer,3.7081395348837205,46,Lager,Wolf's Ridge Brewing,4.5,0,
+Summer Symphony,3.705833333333333,63,Golden Ale,Forbidden Root Brewing Company,6.2,0,"Pilsner with jasmine, chamomile and iris"
+Pineapple Express,3.7051724137931035,31,Wheat Beer,Seventh Son Brewing Company,0.0,0,
+Perfect Opportunity,3.7037037037037037,33,IPA,Goodwood Brewing,4.8,36,
+House Beer,3.7023809523809526,25,Lager,Land-Grant Brewing Company,4.6,0,
+Dire Wolf Yub Nub,3.701923076923077,26,Stout,Wolf's Ridge Brewing,10.8,50,"Dire Wolf infused with cinnamon and One Line Espresso.
+
+Beginning as a fun experiment with one of our favorite northeast Ohio bars for their annual ""may the 4th be with you"" event, this beer's name draws inspiration from a favorite childhood film-back before there was a special edition edit. Just like its inspiration, the beer itself became an oft-demanded fixture at our release parties. We're now finally pleased to present this bottle to you - an example of the power of fan adoration. ""Yub Nub, eee chop yub nub!""
+Show Less"
+Cincy Cobra,3.7014084507042253,157,IPA,Taft's Brewing Company,6.7,44,"Our Citra IPA is brewed to pack a punch of citrus flavors, in honor of Ezzard Charles. Show Less"
+Hopes: West Coast Ipa,3.7,23,IPA,North High Brewing,6.8,70,Mild citrus taste with a mild hoppiness?
+One Goal,3.6999999999999997,49,Pale Ale,Land-Grant Brewing Company,4.6,0,"This hazy, juicy, refreshing Pale Ale is brewed in support of Pelotonia’s mission of accelerating funding for innovative cancer research. $1.00 from every six pack sold and taproom pint poured will support that One Goal. Show Less"
+Hilda,3.6982758620689653,31,Wheat Beer,Edison Brewing Company,5.1,0,"Light, sparking, classic Bavarian Weizen. Aroma and notes of phenol and clove with a touch of banana ester. Very subtle, soft dryness in the finish. Show Less"
+"Oh, Sure",3.696650717703349,229,IPA,Land-Grant Brewing Company,6.4,37,"This can-do IPA keeps things positive with a healthy dose of Eureka, Comet, Simcoe, and Cashmere hops for a very balanced Tangerine, Mango, and Hard Candy vibe. Oh, sure. Show Less"
+Summer Wheat,3.6964285714285716,31,Wheat Beer,Temperance Row Brewing Co.,4.3,0,
+I Can Teach Blue,3.6946511627906977,225,IPA,Saucy Brew Works,7.5,0,"Brewed with wheat, two types of oats, and milk sugar for a thick, milkshake like body. Sabro hops are added to bring out berry and tropical notes, then we finish this beer with loads of fruit purée and vanilla beans. A soft and Smooth IPA with mild bitterness, blueberries and vanilla on the finish. Show Less"
+Rosa,3.6925925925925926,27,IPA,Goodwood Brewing,6.0,15,Pink Guava Milkshake IPA
+"America, Helles Yea!",3.6904761904761907,23,Lager,Goodwood Brewing,5.0,17,This german helles lager is a collab with our friends at Grove City Brewing Company. We love German lagers and love america. Coming out around July 4th time this crisp drinking bready helles will be the beer to cheers with at this celebratory time of the year Show Less
+Sentimental,3.688028169014085,74,Porter,Seventh Son Brewing Company,7.0,0,Orange cacao porter
+Heavy Hearted Amber,3.6875,29,Red Ale,Zaftig Brewing Co.,8.0,21,"Sometimes you win at love, sometimes you lose. With each loss there is a heaviness that sets into your heart. Get out of your funk with this full bodied, brilliant amber. The sweet aroma followed by a smooth taste will remind you that there is always another - beer or lover. Show Less"
+SAINT CAREY,3.685714285714286,23,Märzen,Holy Trinity Brewing Co,5.3,13,"This Saint was one of the first to try our brews back in the homebrewing days and we knew we had hit on something tasty and easy drinking when he would give us the thumbs up. This terrific Oktoberfest style beer is his favorite style and we are proud to say it is ""Carey Allen approved!"" Show Less"
+Juicy Asap - Hazy Edition,3.6826923076923075,27,IPA,Saucy Brew Works,6.7,0,"Super hazy and dripping with tropical fruit. Notes of stone fruit, peach, white grape, and kiwi. Show Less"
+Falutin,3.6824324324324325,155,IPA,North High Brewing,6.0,41,
+Block Party,3.682065217391304,101,Pilsner,Columbus Brewing Company,5.1,0,"Collaboration brew with neighbors Wolf's Ridge Brewing and Sideswipe Brewing. This unfiltered Italian-style Pilsner is brewed with Italian grown pilsner malt and hopped with German Tettnang, Hallertau Mittlefruh, Hallertau Blanc, and NZ Nelson Sauvin. Show Less"
+Uncharted Territory,3.6811475409836065,64,Blonde Ale,Seventh Son Brewing Company,5.0,0,"Cholate blonde ale, infused with Haitian and Ugandan cocoa nibs"
+Grapefruit Walleye,3.6787581699346408,159,IPA,North High Brewing,4.7,58,Citra hop session IPA with grapefruit juice.
+Bourbon Barrel Ale,3.6770833333333335,25,Dark Ale,Goodwood Brewing,6.0,27,"Goodwood Bourbon Barrel Ale is refined by its time in the cask, not defined by it. The process produces balanced, adjunct-free ale with delicious bourbon notes. This copper-toned beaut is medium-bodied and malt-forward with a hint of sweet caramel. It finishes strong and dry with notes of vanilla and bourbon-soaked oak.
+
+Show Less"
+Extra Splendiferous,3.676470588235294,19,Pale Ale,Taft's Brewing Company,6.0,55,"Curiouser and curiouser... Our extra pale ale is just that: extra. Extra hops, extra malt, and extra aromas make this a beer full of extra flavor. Hoppy and crisp. Show Less"
+BamBaLam (2022),3.675925925925926,28,Stout,Zaftig Brewing Co.,10.0,13,"We use Ghirardelli chocolate melted down in a double boiler, rolled oats, and coffee to create this rich, complex, and full-bodied stout. Thick, robust, yet perfectly balanced; 2022's vintage utilizes Backroom Roasters Costa Rican coffee. Show Less"
+Best Mate,3.675675675675676,83,Pilsner,North High Brewing,5.0,0,"New Zealand pils
+Crisp, refreshing"
+Vienna Lager,3.6753086419753087,84,Lager,North High Brewing,5.0,12,Easy drinking copper colored lager with sweet malty flavors and aromas of toasted bread. Show Less
+HOME RUN JESUS,3.6750000000000003,17,Belgian Quadrupel,Holy Trinity Brewing Co,9.5,33,"When Jesus hit his first home run in little league he circled the bases and celebrated by drinking one of these beauties. The king of the Belgian styles, this quad is not for beginners. Besides the high ABV, this brew stays close to style and may not be appreciated by those not ready for the malty sweetness of a quad. Enjoying this as the finish to a Grand Slam flight of Belgians will earn you a badge of honor. Show Less"
+El Lager Ambar,3.6750000000000003,40,Lager,Saucy Brew Works,4.4,0,Smooth and snappy with a hint of toasty caramel sweetness at the finish
+Strawberry Basil Hefeweizen,3.6739130434782608,169,Wheat Beer,Forbidden Root Brewing Company,5.0,0,"A German Hefeweizen brewed with Wild Strawberry and Urban Till Basil. Light, refreshing and slightly tart. Show Less"
+Curb Appeal,3.6710526315789473,21,IPA,Derive Brewing Company,7.6,0,"BREWED WITH A BASE OF PILSNER MALTS, AND CARAMEL MALT, THIS WEST COAST IPA IS THEN HOPPED IN THE KETTLE WITH SIMCOE, MOSAIC AND AZACCA. DOUBLE DRY HOPPED WITH THE SAME HOPS WITH SPECIAL EMPHASIS ON DANK AND PUNGENT SIMCOE. FERMENTED CLEAN AND CRISP WITH A MODERATE BITTERNESS. Show Less"
+Sona,3.670833333333333,101,Wheat Beer,Heart State Brewing,5.8,0,"Crisp, bright, citrus and inviting. A vibrant citrusy ale that pairs perfectly with all of your beautiful vibrancy Show Less"
+Hazy Pale,3.6706349206349205,69,Pale Ale,North High Brewing,5.8,0,
+Aloha Margarita,3.6693548387096775,32,Blonde Ale,Wolf's Ridge Brewing,6.0,0,Pineapple margarita ale to grocery
+Juicy Asap Super Fruited,3.668181818181818,57,IPA,Saucy Brew Works,6.5,0,"Super Fruited Version of our top-selling American IPA, Juicy Asap. Packed with peach and mango and dripping with tropical flavors. Show Less"
+Watermelon Wheat,3.6666666666666665,43,Fruit Beer,Temperance Row Brewing Co.,4.3,0,
+Five Pale Ale,3.662878787878788,69,Pale Ale,North High Brewing,5.5,30,"Easy drinking dry-hopped pale ale, showcasing aromas of tropical fruit, citrus and herbs. Drinks like a session IPA, but with the body to balance the hops. Show Less"
+Pils,3.6607142857142856,15,Pilsner,Columbus Brewing Company,5.2,0,Crisp German-style pilsner brewed with Tettnang and Saphir hops.
+Alt Current,3.66,26,Altbier,Edison Brewing Company,4.7,0,Düsseldorf style Amber beer
+Watermelon Gose,3.658333333333333,34,Sour,Goodwood Brewing,4.8,9,"A refreshing traditional German Sour Ale brewed with Coriander, Himalayan Sea Salt and as a delicious addition, Watermelon! Show Less"
+Tides,3.6544117647058822,34,Sour,North High Brewing,4.0,18,A crisp and refreshing sour ale infused with raspberries.
+Cherrywood Amber,3.6513888888888886,38,Red Ale,Taft's Brewing Company,6.0,23,American amber ale brewed with a touch of cherrywood smoked malt. Smooth and sultry. Show Less
+Cold Boy,3.651315789473684,42,Lager,Taft's Brewing Company,4.5,20,"This anytime lager features American Pilsner malt and Saaz hops for a clean, balanced character that drinks smooth every time.
+
+2019:
+Gold - Ohio Craft Brewers Cup Show Less"
+Hourglass,3.6508620689655173,62,IPA,Zaftig Brewing Co.,6.0,40,"Hourglass IPA is a classic New England with a different personality. By uniting Citra and Amarillo hops, we have built a crossover between a NEIPA and the popular West Coast style. Well balanced, with generous citrus notes and delicate maltiness, you get the best of both worlds. Show Less"
+Land,3.65,16,Wheat Beer,Heart State Brewing,4.8,0,"Light, crisp, complex and wheaty."
+Blood Orange Eastside IPA,3.65,25,IPA,Eastside Brewing Co,6.5,0,Blood Orange Eastside IPA
+Steel Reverse,3.6479591836734695,52,Lager,Hoof Hearted Brewing,5.5,0,American-Style Lager with Cumberland Malted Corn and Montana Craft Pilsner Malt
+Iconic 96 IPA,3.6470588235294117,17,IPA,Random Precision Brewing Company,7.2,51,"Iconic 96 is a Brettanomyces fermented IPA, brewed with Amarillo hops, dry hopped with more Amarillo and Azacca hops, and then infused with pineapple.
+Show Less"
+Cart Path Kölsch,3.6458333333333335,42,Kölsch,Zaftig Brewing Co.,4.5,0,"Our first Kölsch inspired ale is a crusher at 4.5% ABV! Expertly hopped with Cascade and Amarillo, this beer pays homage to its German roots while being uniquely American. The flavor is bright, crisp, and citrusy with notes of lemon and grapefruit. It is sure to quench your thirst over the sunny days of spring and summer. Whether at the golf course, hanging by the pool, or enjoying a COVID-free cookout; this beer will be here to show you the way to Flavortown. Show Less"
+Summer Teeth,3.6441176470588235,132,Kellerbier / Zwickelbier,Columbus Brewing Company,5.3,18,"Beer is meant to be shared and nothing says summer like sharing a crisp, golden lager with friends. This traditional German style lager is brewed with a blend of European malts and hops to create a refreshing, easy-drinking beer.
+Bronze Medal, Kellerbier or Zwickelbier, Great American Beer Festival® 2010
+
+Show Less"
+CHERRY POPPIN' JESUS,3.643103448275862,32,Porter,Holy Trinity Brewing Co,6.0,27,"Jesus was a man that had urges too, just like you! This pleasantly smooth but classic porter adds a bit of a surprise as it hits you in the pie hole with a cherry fist! Show Less"
+Filthy McNasty,3.638888888888889,36,Stout,North High Brewing,9.0,50,"A Russian Imperial Stout with an intensely concentrated roasted malt character. Aggressively hopped to give it a resinous and herbal undertone.
+IBUs: 50
+Hops: Nugget, Falconers Flight
+Malts: Pale, Roasted Barley, Black
+Show Less"
+Under the Mango Tree,3.638888888888889,84,Blonde Ale,Taft's Brewing Company,5.5,13,"Deep in the jungle, adventure and flavor await those who look for it. Loads of ripe mangoes blend with a crisp and refreshing mouthfeel in this easy-drinking, wild brew. Show Less"
+Mini Bomb Blonde,3.6387500000000004,44,Blonde Ale,Zaftig Brewing Co.,5.0,0,"This spunky little offering proves blondes DO have more fun. Crisp, refreshing, and smooth with cereal malts; Mini Bomb Blonde is light, approachable, while not being overly hoppy. Subtle floral notes and unassuming citrus are present, but no one flavor dominates. The finish is soft and pleasant and round. Show Less"
+Tuk Tuk,3.638157894736842,41,Lager,Seventh Son Brewing Company,5.0,0,
+Inflatable Flamingo,3.6379518072289154,173,Wheat Beer,Land-Grant Brewing Company,5.0,0,"This light, fruity, Agua Fresca-inspired ale is the definition of a summer crusher and is perfectly at ease on the water. Whether that be the pool, the ocean, or the lake. Show Less"
+Gustav,3.6354166666666665,24,Lager,Taft's Brewing Company,5.5,25,"Our multiple award-winning lager features notes of light honey balanced by a toasty finish.
+
+2017:
+Gold - Great American Beer Fest
+Silver - US Open Beer Championship
+
+2018:
+Silver - World Beer Cup Show Less"
+Technicolor Hat,3.635119047619048,87,IPA,Columbus Brewing Company,6.9,40,"Technicolor Hat is a citrus-packed IPA that’ll take you on a wild ride through lush citrus groves and tropical oases! Meyer lemon, tangerine and lime are tart on the tongue, but balanced perfectly with tropical notes of passionfruit and mango. Simcoe® and Centennial® hops bring it all together with a light bitterness that rounds out the journey for a clean, refreshing finish. Show Less"
+Pitchback,3.630952380952381,45,IPA,Ohio Brewing Company - Columbus,4.5,30,SESSION IPA – An easy-going Session IPA with a focus on late and dry-hop additions for big hop flavor and aroma without a big alcohol bang. Show Less
+Pins Pilsner,3.630952380952381,21,Pilsner,Seventh Son Brewing Company,0.0,0,
+Jesty IPA,3.63,29,IPA,Goodwood Brewing,7.2,80,American IPA brewed with lemon zest and juniper berries
+UK JESUS,3.628846153846154,26,Brown Ale,Holy Trinity Brewing Co,5.5,25,"Jesus traveled the world for many reasons, including looking for good brew. He spent a lot of time in the UK and Brown Ales were a big reason why. This sweet and malty ale goes great in the cool weather but is equally as nice on a summer night. Show Less"
+Wired Coffee Stout,3.62875,43,Stout,North High Brewing,5.5,0,
+Group Project,3.6285714285714286,30,Wheat Beer,Zaftig Brewing Co.,5.25,6,"The first collaboration between Forbidden
+Root and Zaftig is an American wheat crafted
+with lemon peel and real blueberry & lemon
+puree resulting in a tart wheat ale that is not
+overly sweet while still maintaining the
+delicious fruity flavors from start to finish. Show Less"
+Stealing Signs,3.6264957264957265,128,IPA,Saucy Brew Works,6.0,0,"A dank, citrusy American IPA that's perfect for a day spent outside. Collaboration with Origin Malt featuring their pils malt, and citra hops throughout. Show Less"
+From the Heart Vol. 2,3.625714285714286,71,IPA,Combustion Brewery & Taproom,5.7,26,Notes of freshly squeezed orange and stone fruit
+Pale Ale,3.625,18,Pale Ale,Barley's Brewing Company (Brew Pub),5.6,27,"Pale ale was the first beer we brewed in our brewery and continues to be one of our flagship ales. Because of the rich color of British malt, it is not very pale, but the rich flavor matches the color beautifully. Show Less"
+JESUS-CLAUDE VAN DAMME,3.625,16,Belgian Dubbel,Holy Trinity Brewing Co,6.5,18,"We know Jesus summered in Brussels while in college but he really didn't elaborate on what he did there. All we know is he can drop kick you like a mother! This Dubbel style beer is malty sweet, flavored with sweet orange peel and coriander with fresh banana esters. Show Less"
+Free Town,3.625,17,Rye Beer,Forbidden Root Brewing Company,5.0,0,
+Jalalima Ale,3.6236263736263736,97,Chilli / Chile Beer,North High Brewing,5.8,16,A super-fresh aroma of jalapeños is complimented by the tang of a splash of lime juice. Show Less
+Dub Jam - Peach Lemonade,3.6235632183908044,89,Sour,Saucy Brew Works,8.0,0,"Lachancea Tart Imperial Smoothie brewed with massive amounts of juicy, ripe peach and balanced
+out with crisp, tart lemon. Show Less"
+Ghostface,3.622448979591837,51,Pilsner,Taft's Brewing Company,4.5,42,"KABOOM!
+Guess who stepped in the room?
+It’s Ghostface, gold plates,
+old truths, more cake.
+Pilsner dry hopped with Pekko. Show Less"
+Money On My Rind,3.621794871794872,41,Wheat Beer,Forbidden Root Brewing Company,5.0,9,"Juniper and grapefruit have become a legendary combination in pop culture, known for their ability to refresh and satisfy. So we take a witbier, spike it with juniper berries and the deliciousness of pure grapefruit, and add a peppery hint of grains of paradise. Show Less"
+Flori,3.619565217391304,24,IPA,Ohio Brewing Company - Columbus,8.5,70,"DIPA – Fruity aromas of passionfruit, grapefruit and orange; with a soft mouthfeel and a balanced finish. Show Less"
+The Foggus,3.6174999999999997,22,Wheat Beer,Somewhere In Particular Brewing,5.0,0,
+Shaka,3.6145833333333335,27,IPA,Endeavor Brewing Co,6.5,0,"Select hops from three separate continents provide an accentuated aroma of tropical fruit, while keeping bitterness, alcohol content, and malt base balanced. Show Less"
+Greenskeeper Session IPA,3.6137254901960785,53,IPA,Land-Grant Brewing Company,4.7,44,"Our Session IPA is brewed with leisure in mind. Whether you are making the turn or watching the game with old friends, it’s the perfect complement to an easygoing lifestyle.
+
+Big citrus hop flavor that doesn’t overpower, medium body, and a low ABV allow for prolonged enjoyment through even the longest of afternoons. This is an IPA that deserves a day off. Show Less"
+Taco Ninja,3.6119999999999997,82,Lager,Wolf's Ridge Brewing,4.5,9,"Mexican style lager with lime.
+
+Feeling some tacos? It's gotta be Tuesday somewhere! Like a ninja at your door, this lager deftly quenches your thirst, leaving no trace of the beer behind. Before realizing what has happened, you're craving more! So next time you find yourself on $1 taco night and reaching for some lager, seek no further than the Taco Ninja!
+
+Show Less"
+Rosie Cheeks,3.607142857142857,19,Wheat Beer,Forbidden Root Brewing Company,5.0,0,"Wheat ale w strawberry, lemon, and vanilla."
+All Mina,3.607142857142857,23,Pale Ale,Edison Brewing Company,4.8,0,A British-Style Pale Ale with a malty middle and light hop aroma and moderate hop flavor. A slightly minerally dry finish. Show Less
+Peach Please,3.6043859649122805,60,Kölsch,Zaftig Brewing Co.,4.5,0,"Infused with peach purée and expertly hopped with Cascade and Amarillo, the flavor is fruity, bright, with subtle notes of lemon. The aroma is floral and lightly citrusy. Just the right amount of malty sweetness on the finish provides balance that is both clean and refreshing. Show Less"
+Kulbit,3.6026666666666665,81,IPA,Ohio Brewing Company - Columbus,7.2,60,"OHIO IPA – Fruity aromas of passion fruit, grapefruit and orange; with a soft mouthfeel and a balanced finish. Show Less"
+Piu Piu Ah,3.5985714285714288,35,Sour,Saucy Brew Works,6.0,0,"Lachancea Tart Peach Cobbler. Ripe peach, pleasantly sour with hints of cinnamon and soft vanilla. Show Less"
+Tart N' Tempered,3.5985507246376813,74,Sour,Goodwood Brewing,5.5,0,Light as a cool breeze on a summer day with a hint of peach that's as charming as the south. Slightly tart finish keeps you coming back for another sip. Show Less
+Pool Party,3.5980392156862746,117,Pilsner,Land-Grant Brewing Company,5.4,32,"Whether at a five-star resort or in your neighbor’s back yard, no pool party is complete without the crisp snap of a cold beer. This Pilsner takes its traditional base south of the equator with the addition of Southern Hemisphere hops known for their subtle aromas of tropical fruit and citrus—creating a highly drinkable and incredibly refreshing beer. So, when the weather heats up, throw on some sunscreen, hide your wallet in your shoe, grab a pils, and dive in head first. Show Less"
+Peach Chroma,3.597826086956522,24,Fruit Beer,Columbus Brewing Company,4.5,0,"Golden wheat ale, fermented with Peach and Passion Fruit concentrate."
+Nellie's Key Lime Ale,3.597474747474747,112,Wheat Beer,Taft's Brewing Company,4.8,19,American wheat beer brewed with keylime juice straight from the islands and a hint of coriander. Refreshingly fruity. Show Less
+Razzlin On the Farm,3.5972222222222223,18,Farmhouse Ale,Somewhere In Particular Brewing,5.0,0,
+Assistant Manager,3.594805194805195,79,Golden Ale,Seventh Son Brewing Company,4.5,36,The definition of a drinkable and refreshing. Delicate hops and golden malts give way to firm bitterness and a clean finish. Show Less
+Lager,3.590666666666667,76,Lager,Columbus Brewing Company,4.5,0,"Light, refreshing lager with bready notes and a crisp, clean finish."
+Photo Finish,3.590384615384615,30,Pale Ale,Forbidden Root Brewing Company,5.6,0,A brand new Pale Ale featuring Thiol Producing Yeast! It is hopped with 1lb per barrel Saaz in the Kettle Hop and 1 lb per barrel of Estate Grown Comet in the Dry Hop. Show Less
+AJ’s Umbrella Ride,3.589655172413793,33,Kellerbier / Zwickelbier,Wolf's Ridge Brewing,5.4,0,Golden lager aged 3 weeks in our American oak foeders. Dry hopped w/ tettnang
+Cali Gold,3.5833333333333335,40,Pilsner,Seventh Son Brewing Company,5.0,0,
+Pineapple Upside Down Cake,3.583206106870229,144,Cream Ale,Wolf's Ridge Brewing,5.0,14,We have to credit our bar staff for suggesting this delicious cream ale variant. The brewers added copious amounts of pineapple puree and a hint of cherry to layer the flavor profile just right. Then we condition the beer on cinnamon and vanilla beans to make things complete - just like grandma made it! Show Less
+I Feel Bad For Me,3.580833333333333,65,Pale Ale,Hoof Hearted Brewing,5.0,0,"Double dry-hopped pale ale featuring Zappa, El Dorado, and Citra hops."
+WATER TO WINE,3.58,16,Wheat Beer,Holy Trinity Brewing Co,10.3,44,"Everyone knows the miracle of turning water to wine and we think we have something similar working here. This high-powered brew has a tropical character that favors a lightly fruited wheat beer. If you enjoy a Barleywine, this drink will show you that wheat is a great substitute for the usual ingredient. This rarely found style will be a treat for beer aficionados as well as those looking for a smooth but high-octane miracle from above. Enjoy! Show Less"
+MacLenny's Scottish Ale,3.5789473684210527,20,Scottish Ale,Smokehouse Brewing Company,6.6,14,"You want to do WHAT? When we first brewed this beer we didn't know what would happen when we turned our brew kettle on while it was empty, in order to scorch the malt. We liked the results so much that Scottish has been on tap ever since. Show Less"
+Shoo-Wee Randy,3.5782051282051284,40,Shandy / Radler,Derive Brewing Company,0.0,0,Raspberry Lemonade Shandy made in collaboration with Brewfontaine and Brewfontaine at the Hills and the Syndicate. Show Less
+Nikola,3.578125,18,Lager,Edison Brewing Company,5.3,0,
+IPA ASAP,3.576388888888889,39,IPA,Saucy Brew Works,6.3,66,"Crisp, dry and citrusy with a lingering bitterness."
+Two T's Shandy,3.5760869565217392,23,Shandy / Radler,Crooked Can Ohio,4.8,12,Crisp Kolsch infused with subtle lemony sweetness.
+Livin' And Lovin',3.5737499999999995,40,IPA,Wolf's Ridge Brewing,6.5,45,Cold IPA brewed with Nocterra brewing
+Amazing Haze,3.5714285714285716,22,IPA,Goodwood Brewing,6.2,40,"Hazy IPA- Loads of flaked oats and wheat lend a full-bodied, chewy mouthfeel. Scoops and scoops and scoops of Amarillo and Centennial hops make a delicious piney, resinous orange-grapefruit-apricot alcoholic juice drink! Show Less"
+Free Town 3.0,3.5714285714285716,17,Lager,Forbidden Root Brewing Company,5.8,0,"For the third batch of Freetown, we're featuring more full bodied malts and Mt. Hood hops, cold conditioned for 6 months. Still easy drinking, crisp, and delicious Show Less"
+Orange Creamsicle Ache Sour,3.56875,16,Sour,Heart State Brewing,5.5,0,"Sometimes Belgian influenced, American Wild Ales are beers that are introduced to “wild” yeast or bacteria, such as: Brettanomyces, Pediococcus or Lactobacillus. Show Less"
+ISO: Chuck Biscuits Ft: Nelson Sauvin,3.567241379310345,31,Sour,Hoof Hearted Brewing,4.5,0,"Sea Salt, Coriander, Sauvignon Blanc Juice"
+Dub Jam - Tropical,3.566216216216216,41,Sour,Saucy Brew Works,8.0,0,"Sour ale brewed with passionfruit, peach, and pineapple and soured with the yeast Lachancea Thermotolerans. Show Less"
+O'Jerry's Irish Red,3.5647058823529414,20,Red Ale,Goodwood Brewing,4.8,21,Irish-style red ale is a balanced beer with caramel maltiness. A touch of Roasted Barley lends low roasted notes. The beer is very drinkable and ends with a crisp and dry finish. Show Less
+Cover Crop,3.5625,66,Golden Ale,North High Brewing,4.5,0,"Cover Crop is a light-bodied, easy drinking golden ale that is crisp, refreshing and perfect for relaxing after a day of hard work in the office, factory or farm. The name Cover Crop honors the revival of a farming practice that sustains the land and its surrounding environment. Show Less"
+(614) Lager,3.559322033898305,65,Lager,Wolf's Ridge Brewing,4.2,10,"#614beerstory
+
+Midwest Light Lager, only 110 calories. Brewed to be clean and crisp but with more flavor and allure than a macro lager. very lightly dry hopped with Huell Melon hops to add a subtle melon/citrus note to the aroma. Show Less"
+Sweet,3.5566666666666666,17,Stout,Heart State Brewing,6.5,0,Dark like an artic night but still easy & quaffable like a summer breeze.
+Livin’ the Dream,3.553125,20,Pilsner,Derive Brewing Company,4.2,15,"Livin’ The Dream is a 4.2% ABV Czech Pilsner brewed with only four ingredients!  Pilsner malt, Czech Saaz hops, water and an expressive lager yeast come together in perfect harmony to create an old world classic.  This crispy little beer was lagered for eight weeks to achieve the cleanliness one looks for in a delicious and highly drinkable pilsner. Show Less"
+Unable To Fear,3.5444444444444447,27,IPA,Derive Brewing Company,6.4,0,A rich and robust Black IPA/Cascadian Dark Ale brewed with a complex array of roasted malts. Hopped in the kettle with Chinook and dry hopped with Mackinac hops from Michigan. 6.4% ABV. Show Less
+Grapefruit Wheat,3.5434782608695654,24,Wheat Beer,Parsons North Brewing Company,6.2,21,"Zesty, Mellow, and Clean. A Carefree American Wheat Ale with a hint of grapefruit. Show Less"
+Goodwood IPA,3.5419540229885054,99,IPA,Goodwood Brewing,6.5,67,"Bold hop flavor and aroma from five different hop varietals is front and center in this flavorful India Pale Ale. Aromas ranging from citrus to pine to stone fruit are generated from synergistic hop additions in both the kettle and the fermenter.
+Show Less"
+FESTBIER,3.5416666666666665,35,Festbier,Saucy Brew Works,6.0,0,"Deep golden color, malt flavors of biscuit, breadcrust and toffee, orange in the mid palate, finishes crisp with a light malt backbone and a classic noble hop bitterness. Show Less"
+El Lager,3.5390151515151516,139,Lager,Saucy Brew Works,4.3,0,"Light straw in color, with a tight white head. Soft floral and lemony hop character, with a balanced grain, corn and citrus finish. Perfectly clean and thirst quenching! Show Less"
+Dub Jam,3.5366666666666666,34,Sour,Saucy Brew Works,8.0,0,"Lachancea Tart Imperial Smoothie - sour ale brewed with double raspberry and soured with the yeast Lachancea Thermotolerans.
+
+
+Lachancea Tart is a new style of beer born in Cleveland, Ohio. The method of production for these beers is wholly different than other sours, as we employ our friendly lactic acid-producing yeast, Lachancea thermotolerans to sour the beer instead of lactic acid bacteria. Show Less"
+Snake In the Grass,3.536,53,Farmhouse Ale,Taft's Brewing Company,8.5,20,Saison brewed with fresh lemongrass and locally grown basil. Brewed in collaboration with Rob and Roxanne Westendorf. Show Less
+Honey Wheat Lager,3.5346456692913386,135,Lager,North High Brewing,5.6,17,
+Brewtus Blonde,3.533333333333333,15,Blonde Ale,Goodwood Brewing,4.9,23,Classic beer with slight bread smell with a crisp and clean body with a low abv. This is your drink all day beer. Show Less
+Nordecke,3.5272727272727273,40,Cream Ale,Endeavor Brewing Co,4.8,0,Tasty lager to celebrate the Columbus Crew's home opener.
+Gunpowder IPA,3.5267857142857144,32,IPA,Temperance Row Brewing Co.,6.25,0,This is a hop forward IPA with tropical fruit and floral aromas that lead to citrus and honeydew flavors while maintaining overall balance. Show Less
+The Quest,3.5185714285714287,39,Belgian Enkel / Patersbier,Derive Brewing Company,5.2,0,Our new Belgian Single brewed with spelt and hopped with German Grüngeist.
+SHE DEVIL,3.514705882352941,20,Red Ale,Holy Trinity Brewing Co,4.8,26,"Jesus loved the ladies, just ask Mary Magdalene (woo hoo). He also loves our flagship Irish Red with a smooth, malty finish that will have you begging for more and more reds. Show Less"
+Barley’s 13th Guest,3.51,16,Brown Ale,Barley's Brewing Company (Brew Pub),5.7,0,Homebrew contest winner Jim Suddeth’s major award winning beer.
+Icelandic Saga,3.50625,28,Wheat Beer,Endeavor Brewing Co,4.7,0,Icelandic-style Ale. This brew is made with some wheat and features notes of Sage and Icelandic Anise Star. Show Less
+Two To Tang-Go,3.5,24,Fruit Beer,Sideswipe Brewing,5.2,0,Tangerine Ale
+124 Conch Street,3.5,17,IPA,Spires Social Brewing Co.,5.5,0,
+Rubí Grapefruit IPA,3.4976415094339623,121,IPA,Land-Grant Brewing Company,6.3,43,IPA with grapefruit and lime juices
+OLD MCJESUS HAD A FARM,3.487931034482759,30,Farmhouse Ale,Holy Trinity Brewing Co,7.1,22,"When Jesus had a farm, he kept his farm hands happy with generous servings of this Belgian Farmhouse ale…E-I-E-I-O. This Saison uses Huell Melon hops to bring out characteristics of melon and strawberry and has added lemon peel to remind you of warm summer days. Show Less"
+Patent,3.486842105263158,21,Pilsner,Edison Brewing Company,4.8,0,"A Pils that is light, crisp and sparkling with flavor and aroma of German and Slovenian noble hops. Smooth, dry finish. Show Less"
+Pilsner,3.4863636363636363,25,Pilsner,Barley's Brewing Company (Brew Pub),4.8,15,"A great introduction to craft brewed beer, since there is enough malt and hop flavor in our Pilsner to keep even the most sophisticated beer drinkers coming back for more. Show Less"
+Sparkling Rosé Ale,3.4770270270270274,40,Bière de Champagne / Bière Brut,Forbidden Root Brewing Company,10.0,0,This finely bubbled ale brewed with Niagara Grapes and a hint of hibiscus beautifully walks the line between beer and wine. Show Less
+Astro Nuggs Hazy Guava IPA,3.46875,19,IPA,2 Tones Brewing Company,6.5,0,Hazy IPA with guava puree.
+Batches Be Crazy,3.46875,18,IPA,Spires Social Brewing Co.,6.2,0,
+Hazy IPA,3.468,27,IPA,Goodwood Brewing,7.0,30,Luscious ripe tropical fruit carries your senses on a radical journey. Full body finishes dry and hoppy with notes of bitter mango. Enjoy this beer on your next fantastic voyage to the land of whimsical haze. Show Less
+Shandy Land,3.4641666666666664,63,Shandy / Radler,Heart State Brewing,4.8,0,"A shandy style ale with lemon. Light, crisp and sweet."
+Citra® Noel,3.453333333333333,15,Strong Ale,Columbus Brewing Company,7.3,34,Welcome to a new holiday tradition. Our mahogany colored ale features tropical fruit notes from Citra hops and has a deep rich malt character. Show Less
+Double Walnut Sweet,3.4466666666666668,16,Stout,Heart State Brewing,11.5,0,Imperial Stout with vanilla and Walnut
+Prohibition Pilsner,3.44,26,Pilsner,Temperance Row Brewing Co.,5.0,0,Bavarian style pilsner brewed with German and Czech hops.
+Ez Peezy,3.4339285714285714,29,IPA,Somewhere In Particular Brewing,4.2,0,Easy drinking session IPA sitting at 4.2% brewed with Cryo Citra and Cryo Mosaic hops. Show Less
+Fatty Gold,3.4225490196078434,55,Lager,Saucy Brew Works,5.5,0,A bright and snappy lager with a pleasant crackery malt nose that finishes with a citrusy and almost Noble hop nose despite the American Hops Show Less
+Beach Blender,3.3905797101449275,73,Fruit Beer,Wolf's Ridge Brewing,6.0,0,Fruity peach mango ale
+Abercorn Road Streaking Society,3.375,68,Bitter,Hoof Hearted Brewing,3.5,0,
+Cori Anna,3.3676470588235294,18,Sour,Edison Brewing Company,4.8,0,
+Louisville Lager,3.364795918367347,107,Lager,Goodwood Brewing,4.2,35,"In a tip of the cap to our Slugger-making neighbors downtown, white ash – common in baseball bats – is used to enhance brewing. This results in a light-bodied, perfectly balanced lager with a sweet finish delivered by those Kentucky grains.
+Show Less"
+President's Pils,3.344186046511628,47,Pilsner,Ohio Brewing Company - Columbus,5.2,25,"PILSNER – Rich, characterful, pale Czech-style lager. Complex yet well-balanced and refreshing. The bitterness is clean and without harshness, which gives a rounded drinkability. Show Less"
+Pineapple Coconut Cream Ale,3.34375,17,Cream Ale,Land-Grant Brewing Company,5.0,0,Light and easy Cream Ale with a touch of coconut and vanilla
+Basic Batch,3.335483870967742,31,Golden Ale,Forbidden Root Brewing Company,5.0,0,A crisp and clean golden ale!
+Lulet,3.3194444444444446,36,Wheat Beer,Ohio Brewing Company - Columbus,5.0,15,"WITBIER – A Belgian-style Witbier brewed with orange peel, coriander and lavender."
+Bowsie,3.312962962962963,29,Stout,Ohio Brewing Company - Columbus,4.2,20,"NITRO IRISH STOUT – An Irish Classic, creamy with hints of chocolate and coffee and a smooth dry finish. Show Less"
+ÜBER ASAP,3.3035714285714284,16,IPA,Saucy Brew Works,7.0,0,Bright American hops carefully blended with Madagascar Vanilla and an insane amount of juicy fruit purée. Show Less
+Kitty Paw Pineapple Tangerine,3.29,16,Hard Seltzer,Seventh Son Brewing Company,4.2,0,Hard Seltzer with Pineapple and Tangerines
+Cerveza de Mercado,3.2086956521739127,24,Blonde Ale,Barley's Brewing Company (Brew Pub),4.8,15,Collaboration with Market Bar Bridge Park. Margarita Inspired. Mexican Style Salty Lime Blonde Ale with fresh lime zest and sea salt. 4.8% ABV. Show Less
+Shifty Fellow,3.1875,39,Farmhouse Ale,Forbidden Root Brewing Company,7.0,0,"Saison Ale with Toasted Buckwheat, Cucumber, & Shiso"
+Sting Like A Beer,3.1323529411764706,19,Honey Beer,Goodwood Brewing,8.7,0,Bourbon barrel aged
+Mr. Stacks,3.125,31,Porter,Land-Grant Brewing Company,5.8,0,"Go ahead and order a stack of pancakes for the table, and enjoy alongside this deliciously rich Maple Blueberry Porter. Brewed with fresh blueberry and maple extract. Show Less"
+Turbowater,3.1153846153846154,15,Hard Seltzer,Hoof Hearted Brewing,5.5,0,"Collaboration w/ Evil Water,
+Brown sugar roasted pineapple"
+BIG HEYZEUS,3.111111111111111,30,IPA,Holy Trinity Brewing Co,9.1,55,"The oldest of the three brothers, this is the BIG Hazy Jesus. Like the other brothers this New England style IPA brings in a ton of citrus flavors and aroma from whirlpool and dry hopping but adds a zest of bitterness and ups the ABV. Drink up this edition because we won't see it again for a while and give thanks and enjoy your communion. Show Less"
+"Turbowater (Orange, Tang, Vanilla )",3.0166666666666666,19,Hard Seltzer,Hoof Hearted Brewing,5.5,0,"Seltzer with orange, tang, and vanilla"
